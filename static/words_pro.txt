@@ -1,0 +1,1097 @@
+	*human anatomy   人体解剖学, 人体解剖学常用名词
+	*systematic anatomy   系统解剖学, 人体解剖学常用名词
+	*topographic anatomy 暂无, 人体解剖学常用名词
+	*regional anatomy 局部解剖学, 人体解剖学常用名词
+	applied anatomy  应用解剖学, 人体解剖学常用名词
+	caput ,  *head  头, 人体部分词汇
+	#cranio- ,*cranium 颅, 人体部分词汇
+	*face  面, 人体部分词汇
+	#nasus ,*nose  鼻, 人体部分词汇
+	#os ,*mouth  口, 人体部分词汇
+	#auris ,*ear 耳, 人体部分词汇
+	#oculus ,*eye  眼, 人体部分词汇
+	#cervix ,#collum ,*neck 	颈, 人体部分词汇
+	*trunk   躯干, 人体部分词汇
+	*chest   胸, 人体部分词汇
+	*abdomen  腹, 人体部分词汇
+	#dorsum ,*back  背, 人体部分词汇
+	#lumbus 腰(部), 人体部分词汇
+	#loin  腰, 人体部分词汇
+	#membrum ,*limb  肢, 人体部分词汇
+	#vertical  垂直, 一般方位词汇
+	#horizontal  水平, 一般方位词汇
+	#median  正中, 一般方位词汇
+	#sagittal  矢状, 一般方位词汇
+	#coronal  冠状, 一般方位词汇
+	#transverse  横, 一般方位词汇
+	dexter ,#right  右, 一般方位词汇
+	sinister ,#left  左, 一般方位词汇
+	#medial  内侧, 一般方位词汇
+	#lateral  外侧, 一般方位词汇
+	intermediate  中间, 一般方位词汇
+	collateral  侧的,副的, 一般方位词汇
+	#internal  内, 一般方位词汇
+	#external  外, 一般方位词汇
+	#anterior  前, 一般方位词汇
+	#posterior  后, 一般方位词汇
+	#ventral  腹侧, 一般方位词汇
+	#dorsal  背侧, 一般方位词汇
+	#superior  上, 一般方位词汇
+	#inferior  下, 一般方位词汇
+	#superficial  浅, 一般方位词汇
+	profundus ,#deep  深, 一般方位词汇
+	#proximal  近侧, 一般方位词汇
+	#distal  远侧, 一般方位词汇
+	#central  中央,中心, 一般方位词汇
+	#peripheral  周围, 一般方位词汇
+	#radial  桡侧, 一般方位词汇
+	#ulnar  尺侧, 一般方位词汇
+	#tibial  胫侧, 一般方位词汇
+	#fibular  腓侧, 一般方位词汇
+	osteologia ,osteology 骨学, 骨学
+	*os , bone  骨, 骨学
+	diaphysis ,shaft骨干, 骨学
+	medullary  髓质的, 骨髓的, 脊髓的, 骨学
+	#epiphysial line  骺线, 骨学
+	 osseous substance 骨质, 骨学
+	 compact bone  骨密质, 骨学
+	 spongy bone  骨松质, 骨学
+	 #cartilage  软骨, 骨学
+	 #epiphysial cartilage  骺软骨, 骨学
+	 #diploe  板障, 骨学
+	 #periosteum  骨膜, 骨学
+	 #bone marrow  骨髓, 骨学
+	 #process  突, 骨学
+	 #spine  棘, 骨学
+	 #eminence  隆起, 骨学
+	 #tuberosity  粗隆, 骨学
+	 #tuber结节, 骨学
+	 #crest嵴, 骨学
+	 #fossa窝, 骨学
+	 #fovea凹, 骨学
+	 #foveolar 小凹的,孔穴的, 骨学
+	 #sulcus沟, 骨学
+	 #impression压迹, 骨学
+	 #cavity腔, 骨学
+	 #sinus窦, 骨学
+	 #antrum房, 骨学
+	 cellula小房, 骨学
+	 #canal管, 骨学
+	 #meatus 道, 骨学
+	 #aperture口, 骨学
+	 #foramen孔, 骨学
+	 #hiatus裂孔, 骨学
+	 #capitulum小头, 骨学
+	 #condyle髁, 骨学
+	 #epicondyle上髁, 骨学
+	 #surface面, 骨学
+	 #border 缘, 骨学
+	 #notch 切迹, 骨学
+	*vertebra 椎骨, 骨学
+	#vertebral body 椎体, 骨学
+	#vertebral canal 椎管, 骨学
+	#vertebral arch 椎弓, 骨学
+	#intervertebral foramina椎间孔, 骨学
+	*cervical vertebrae颈椎, 骨学
+	#atlas寰椎, 骨学
+	#axis 枢椎, 骨学
+	#vertebra prominens隆椎, 骨学
+	*thoracic vertebrae 胸椎, 骨学
+	*lumbar vertebrae 腰椎, 骨学
+	*sacrum 骶骨, 骨学
+	sacral hiatus 骶管裂孔, 骨学
+	sacral cornu 骶角, 骨学
+	*coccyx尾骨, 骨学
+	#vertebral column脊柱, 骨学
+	*costa ,*rib 肋, 骨学
+	#costal bone肋骨, 骨学
+	costal cartilage肋软骨, 骨学
+	*sternum胸骨, 骨学
+	*frontal bone 额骨, 骨学
+	*parietal bone 顶骨, 骨学
+	*occipital bone 枕骨, 骨学
+	foramen magnum枕骨大孔, 骨学
+	#external occipital protuberance枕外隆凸, 骨学
+	#temporal bone 颞骨, 骨学
+	internal acoustic pore内耳门, 骨学
+	styloid process茎突, 骨学
+	mastoid process乳突, 骨学
+	stylomastoid foramen茎乳孔, 骨学
+	*sphenoid bone蝶骨, 骨学
+	*ethmoid bone筛骨, 骨学
+	nasal bone 鼻骨, 骨学
+	lacrimal bone 泪骨, 骨学
+	*maxilla 上颌骨, 骨学
+	#nasal concha 鼻甲, 骨学
+	palatine bone 腭骨, 骨学
+	#zygomatic bone 颧骨, 骨学
+	*mandible下颌骨, 骨学
+	mental foramen颏孔, 骨学
+	#hyoid bone 舌骨, 骨学
+	#cranial cavity 颅腔, 骨学
+	suture 缝, 骨学
+	coronal suture 冠状缝, 骨学
+	sagittal suture 矢状缝, 骨学
+	lambdoid suture 人字缝, 骨学
+	#anterior cranial fossa 颅前窝, 骨学
+	#middle cranial fossa 颅中窝, 骨学
+	#posterior cranial fossa 颅后窝, 骨学
+	#pterion  翼点, 骨学
+	#temporal fossa 颞窝, 骨学
+	#infratemporal fossa 颞下窝, 骨学
+	#pterygopalatine fossa 翼腭窝, 骨学
+	#orbit  眶, 骨学
+	fontanel(le)囟, 骨学
+	cranial fontanelle 颅囟, 骨学
+	nasolacrimal canal 鼻泪管, 骨学
+	#nasal cavity 鼻腔, 骨学
+	#paranasal sinus 鼻旁窦, 骨学
+	#frontal sinus 额窦, 骨学
+	#sphenoidal sinus蝶窦, 骨学
+	#maxillary sinus上颌窦, 骨学
+	#ethmoidal sinus筛窦, 骨学
+	*scapula 肩胛骨, 骨学
+	acromion 肩峰, 骨学
+	glenoid cavity关节盂, 骨学
+	*clavicle 锁骨, 骨学
+	*humerus 肱骨, 骨学
+	sulcus for radial nerve 桡神经沟, 骨学
+	lateral epicondyle 外上髁, 骨学
+	medial epicondyle 内上髁, 骨学
+	olecranon 鹰嘴, 骨学
+	coronoid process冠突, 骨学
+	*radius 桡骨, 骨学
+	*ulna 尺骨, 骨学
+	#carpal bones 腕骨, 骨学
+	#metacarpal bones 掌骨, 骨学
+	#phalanges of fingers 指骨, 骨学
+	*hip bone 髋骨, 骨学
+	*ilium 髂骨, 骨学
+	*ischium 坐骨, 骨学
+	*pubis 耻骨, 骨学
+	iliac crest 髂嵴, 骨学
+	*anterior superior iliac spine  髂前上棘, 骨学
+	posterior superior iliac spine 髂后上棘, 骨学
+	tubercle of iliac crest髂结节, 骨学
+	greater sciatic notch 坐骨大切迹, 骨学
+	lesser sciatic notch  坐骨小切迹, 骨学
+	arcuate line 弓状线, 骨学
+	#ischial tuberosity 坐骨结节, 骨学
+	#pubic tubercle 耻骨结节, 骨学
+	#obturator foramen 闭孔, 骨学
+	#acetabulum 髋臼, 骨学
+	*femur  股骨, 骨学
+	medial condyle 内侧髁, 骨学
+	lateral condyle 外侧髁, 骨学
+	adductor tubercle收肌结节, 骨学
+	*patella 髌骨, 骨学
+	*tibia 胫骨, 骨学
+	*fibula 腓骨, 骨学
+	tarsal bones 跗骨, 骨学
+	talus 距骨, 骨学
+	calcaneus 跟骨, 骨学
+	metatarsal bone跖骨, 骨学
+	#phalanges of toes 趾骨, 骨学
+	*articulation ,joint 关节, 关节学
+	#synovial joint 滑膜关节n, 关节学
+	articular cartilage 关节软骨, 关节学
+	#articular cavity 关节腔, 关节学
+	#articular capsule 关节囊, 关节学
+	*ligament 韧带, 关节学
+	synovial membrane 滑膜, 关节学
+	#articular disc 关节盘, 关节学
+	#meniscus 半月板, 关节学
+	articular labrum 关节唇, 关节学
+	fibrous joint 纤维连结, 关节学
+	syndesmosis 韧带连结, 关节学
+	cartilaginous joint 软骨连结, 关节学
+	synchondrosis 透明软骨结合, 关节学
+	symphysis纤维软骨联合, 关节学
+	synostosis骨性结合, 关节学
+	#translation移动, 关节学
+	#flexion屈, 关节学
+	#extension伸, 关节学
+	#adduction收, 关节学
+	#abduction 展, 关节学
+	#rotation 旋转, 关节学
+	#medial rotation 旋内, 关节学
+	#lateral rotation 旋外, 关节学
+	#pronation 旋前, 关节学
+	#supination 旋后, 关节学
+	circumduction 环转, 关节学
+	*vertebral column 脊柱, 关节学
+	*intervertebral disc 椎间盘, 关节学
+	anterior longitudinal ligament 前纵韧带, 关节学
+	posterior longitudinal ligament 后纵韧带, 关节学
+	ligmneta flava 黄韧带, 关节学
+	interspinal ligament 棘间韧带, 关节学
+	supraspinal ligament 棘上韧带, 关节学
+	ligamentum nuchae 项韧带, 关节学
+	zygapophyseal joint 关节突关节, 关节学
+	thorax,thoracic cage 胸廓, 关节学
+	sternocostal joint 胸肋关节, 关节学
+	#sternoclavicular joint胸锁关节, 关节学
+	*sternal angle 胸骨角, 关节学
+	*costal arch 肋弓, 关节学
+	*temporomandibular joint   颞下颌关节, 关节学
+	*shoulder joint 肩关节, 关节学
+	*elbow joint 肘关节, 关节学
+	#radiocarpal joint,wrist joint桡腕关节,腕关节, 关节学
+	*pelvis骨盆, 关节学
+	greater pelvis大骨盆, 关节学
+	lesser pelvis小骨盆, 关节学
+	sacrotuberous ligament 骶结节韧带, 关节学
+	sacrospinous ligment 骶棘韧带, 关节学
+	#pubic symphysis 耻骨联合, 关节学
+	*hip joint 髋关节, 关节学
+	knee joint 膝关节, 关节学
+	#anterior cruciate ligament 前交叉韧带, 关节学
+	#posterior cruciate ligament 后交叉韧带, 关节学
+	#ankle joint 踝关节, 关节学
+	talocalcaneal joint距跟关节, 关节学
+	*muscle 肌,肌学
+	*tendon  腱,肌学
+	aponeurosis 腱膜,肌学
+	#fascia 筋膜,肌学
+	#tendinous sheath 腱鞘,肌学
+	mesotendon  腱系膜,肌学
+	#facial muscles , muscles of expression 面肌,表情肌,肌学
+	galea aponeurotica  帽状腱膜,肌学
+	orbicularis oculi  眼轮匝肌,肌学
+	orbicularis oris  口轮匝肌,肌学
+	#masticatory muscles  咀嚼肌,肌学
+	#masseter  咬肌,肌学
+	#temporalis  颞肌,肌学
+	medial pterygoid   翼内肌,肌学
+	lateral pterygoid   翼外肌,肌学
+	*sternocleidomastoid    胸锁乳突肌,肌学
+	#scalenus  斜角肌,肌学
+	#trapezius  斜方肌,肌学
+	#latissimus dorsi  背阔肌,肌学
+	levator scapulae  肩胛提肌,肌学
+	rhomboideus  菱形肌,肌学
+	#erector spinae  竖脊肌,肌学
+	splenius  夹肌,肌学
+	#pectoralis major   胸大肌,肌学
+	pectoralis minor   胸小肌,肌学
+	serratus anterior   前锯肌,肌学
+	intercostales externi   肋间外肌,肌学
+	intercostales interni    肋间内肌,肌学
+	*diaphragm   膈,肌学
+	#obliquus externus abdominis   腹外斜肌,肌学
+	#obliquus internus abdominis    腹内斜肌,肌学
+	#transversus abdominis   腹横肌,肌学
+	#conjoint tendon   联合键,肌学
+	#inguinal ligament    腹股沟韧带,肌学
+	#inguinal canal  腹股沟管,肌学
+	#rectus abdominis    腹直肌,肌学
+	#sheath of rectus abdominis  腹直肌鞘,肌学
+	#arcuate line   弓状线（腹直肌鞘）,肌学
+	linea alba    白线,肌学
+	#thoracolumbar fascia    胸腰筋膜,肌学
+	*deltoid    三角肌,肌学
+	teres    圆肌,肌学
+	subscapularis    肩胛下肌,肌学
+	#biceps brachii   肱二头肌,肌学
+	coracobrachialis  喙肱肌,肌学
+	#brachialis    肱肌,肌学
+	#triceps brachii    肱三头肌,肌学
+	#brachioradialis    肱桡肌,肌学
+	palmaris longus    掌长肌,肌学
+	flexor carpi ulnaris    尺侧腕屈肌,肌学
+	flexor pollicis longus 拇长屈肌,肌学
+	#pronator teres    旋前圆肌,肌学
+	flexor digitorum superificialis 指浅屈肌,肌学
+	flexor digitorum superificialis profundus 指深屈肌,肌学
+	extensor carpi radialis  longus   桡侧腕长伸肌,肌学
+	extensor carpi radialis brevis   桡侧腕短伸肌,肌学
+	estensor digitorum    指伸肌,肌学
+	extensor pollicis  longus    拇长伸肌,肌学
+	extensor pollicis  brevis     拇短伸肌,肌学
+	thenar    鱼际,肌学
+	opponens pollocis     拇对掌肌,肌学
+	lumbricales    蚓状肌,肌学
+	supinator   旋后肌,肌学
+	abductor pollicis longus   拇长展肌,肌学
+	abductor pollicis brevis   拇短展肌,肌学
+	*cubital fossa      肘窝,肌学
+	#carpal canal    腕管,肌学
+	axillary fossa    腋窝,肌学
+	deltopectoral groove    三角胸肌间沟,肌学
+	#trilateral foramen    三边孔,肌学
+	#quadrilateral foramen    四边孔,肌学
+	#gluteus    臀肌,肌学
+	piriformis    梨状肌,肌学
+	iliopsoas    髂腰肌,肌学
+	psoas    腰大肌,肌学
+	#quadriceps femoris   股四头肌,肌学
+	sartorius    缝匠肌,肌学
+	gracilis    股薄肌,肌学
+	adductor longus    长收肌,肌学
+	adductor brevis    短收肌,肌学
+	adductor magnus   大收肌,肌学
+	#biceps femoris    股二头肌,肌学
+	#semitendinosus    半腱肌,肌学
+	#semimenbranosus    半膜肌,肌学
+	tibialis anterior    胫骨前肌,肌学
+	extensor hallucis longus 拇长伸肌,肌学
+	peroneus  longus   腓骨长肌,肌学
+	peroneus  brevis   腓骨短肌,肌学
+	#tibialis posterior   胫骨后肌,肌学
+	#triceps surae  小腿三头肌,肌学
+	#gastrocnemius   腓肠肌,肌学
+	#soleus   比目鱼肌,肌学
+	#tendo calcaneus   跟腱,肌学
+	#femoral triangle  股三角,肌学
+	#adductor canal  收肌管,肌学
+	#popliteal fossa  腘窝,肌学
+	#splanchnology    内脏学, 内脏学
+	#viscera    内脏（单 viscus ）, 内脏学
+	anterior median line    前正中线, 内脏学
+	sternal line    胸骨线, 内脏学
+	#midclavicular line    锁骨中线, 内脏学
+	parasternal line    胸骨旁线, 内脏学
+	anterior axillary line  腋前线, 内脏学
+	posterior axillary line    腋后线, 内脏学
+	#midaxillary line    腋中线, 内脏学
+	#scapular line    肩胛线, 内脏学
+	posterior median line    后正中线, 内脏学
+	*digestive system  , alimentary system                      消化系统, 消化系统
+	alimentary canal    消化管, 消化系统
+	alimentary gland    消化腺, 消化系统
+	*oral cavity    口腔, 消化系统
+	oral lip    口唇, 消化系统
+	nasolabial sulcus    鼻唇沟, 消化系统
+	#cheek    颊, 消化系统
+	papilla of parotid duct    腮腺管乳头, 消化系统
+	#palate    腭, 消化系统
+	hard palate    硬腭, 消化系统
+	soft palate    软腭, 消化系统
+	velum palatinum    腭帆, 消化系统
+	#uvula   腭垂, 消化系统
+	palatoglossal arch     腭舌弓, 消化系统
+	palatopharyngeal arch     腭咽弓, 消化系统
+	#isthmus of fauces    咽峡, 消化系统
+	*tooth  ,dens  ,dent    牙, 消化系统
+	#deciduous teeth    乳牙, 消化系统
+	#permanent teeth    恒牙, 消化系统
+	wisdom tooth    迟牙,智牙, 消化系统
+	incisors    切牙, 消化系统
+	canine teeth    尖牙, 消化系统
+	molars   磨牙, 消化系统
+	premolars    前磨牙, 消化系统
+	crown of tooth    牙冠, 消化系统
+	root of tooth     牙根, 消化系统
+	neck of tooth     牙颈, 消化系统
+	dentine    牙质, 消化系统
+	enamel    釉质, 消化系统
+	cement    牙骨质, 消化系统
+	dental pulp    牙髄, 消化系统
+	*tongue  ,lingua    舌, 消化系统
+	body of tongue     舌体, 消化系统
+	root of tongue     舌根, 消化系统
+	apex of tongue     舌尖, 消化系统
+	terminal sulcus     界沟, 消化系统
+	#filiform papillae      丝状乳头, 消化系统
+	#fungiform papillae     菌状乳头, 消化系统
+	#foliate papillae    叶状乳头, 消化系统
+	#vallate papillae     轮廓乳头, 消化系统
+	*tonsil    扁桃体, 消化系统
+	lingual tonsil    舌扁桃体, 消化系统
+	frenulum of tongue    舌系带, 消化系统
+	sublingual caruncle    舌下阜, 消化系统
+	sublingual fold    舌下襞, 消化系统
+	#genioglossus    颏舌肌, 消化系统
+	#salivary gland    唾液腺, 消化系统
+	#parotid gland    腮腺, 消化系统
+	parotid duct    腮腺管, 消化系统
+	#submandibular gland   下颌下腺, 消化系统
+	#sublingual gland    舌下腺, 消化系统
+	*pharynx    咽, 消化系统
+	#nasopharynx     鼻咽, 消化系统
+	auditory tube     咽鼓管, 消化系统
+	pharyngeal opening of auditory tube  咽鼓管咽口, 消化系统
+	 tubal torus     咽鼓管圆枕, 消化系统
+	pharyngeal recess    咽隐窝, 消化系统
+	#oropharynx     口咽, 消化系统
+	epiglottic vallecula    会厌谷, 消化系统
+	palatine tonsil    腭扁桃体, 消化系统
+	#laryngopharynx     喉咽, 消化系统
+	#piriform recess      梨状隐窝, 消化系统
+	*esophagus     食管, 消化系统
+	*stomach  ,gaster  ,ventriculus    胃, 消化系统
+	#cardia    贲门, 消化系统
+	#pylorus    幽门, 消化系统
+	pyloric canal    幽门管, 消化系统
+	pyloric antrum    幽门窦, 消化系统
+	pyloric valve    幽门瓣, 消化系统
+	pyloric sphincter    幽门括约肌, 消化系统
+	#bowel  ,intestine     肠, 消化系统
+	#small intestine      小肠, 消化系统
+	*duodenum      十二指肠, 消化系统
+	superior duodenal flexure    十二指肠上曲, 消化系统
+	duodenal bulb    十二指肠球, 消化系统
+	inferior duodenal flexure    十二指肠下曲, 消化系统
+	longitudinal fold of duodenum  十二指肠纵襞, 消化系统
+	#major duodenal papilla    十二指肠大乳头, 消化系统
+	#duodenojejunal flexure    十二指肠空肠曲, 消化系统
+	#suspensory ligament of duodenum   十二指肠悬韧带, 消化系统
+		*jejunum      空肠, 消化系统
+	*ileum     回肠, 消化系统
+	#large intestine    大肠, 消化系统
+	colic bands      结肠带, 消化系统
+	haustra of colon      结肠袋, 消化系统
+	epiploicae appendices     肠脂垂, 消化系统
+	#caecum     盲肠, 消化系统
+	ileocecal orifice      回盲口, 消化系统
+	ileocecal valve     回盲瓣, 消化系统
+	*vermiform appendix  , appendix   阑尾, 消化系统
+	*colon      结肠, 消化系统
+	#ascending colon     升结肠, 消化系统
+	#transverse colon      横结肠, 消化系统
+	#descending colon      降结肠, 消化系统
+	#sigmoid colon      乙状结肠, 消化系统
+	*rectum    直肠, 消化系统
+	sacral flexure of rectum     直肠骶曲, 消化系统
+	perineal flexure of rectum      直肠会阴曲, 消化系统
+	ampulla of rectum      直肠壶腹, 消化系统
+	#anal canal      肛管, 消化系统
+	anal column     肛柱, 消化系统
+	anal valve      肛瓣, 消化系统
+	anal sinus      肛窦, 消化系统
+	#dentate line      齿状线, 消化系统
+	#anus      肛门, 消化系统
+	*liver      肝, 消化系统
+	#porta hepatis      肝门, 消化系统
+	fissure for teres hepatis     肝圆韧带裂, 消化系统
+	fissure for ligamentum venosum   静脉韧带裂, 消化系统
+	fossa for gallbladder     胆囊窝, 消化系统
+	sulcus for vena cava      腔静脉沟, 消化系统
+	*gallbladder      胆囊, 消化系统
+	fundus of gallbladder      胆囊底, 消化系统
+	body of gallbladder      胆囊体, 消化系统
+	neck of gallbladder      胆囊颈, 消化系统
+	cystic duct      胆囊管, 消化系统
+	common hepatic duct      肝总管, 消化系统
+	#common bile duct       胆总管, 消化系统
+	hepatopancreatic ampulla      肝胰壶腹, 消化系统
+	*pancreas       胰, 消化系统
+	*respiratory system    呼吸系统, 呼吸系统
+		 nasal septum       鼻中隔, 呼吸系统
+	#nasal cavity       鼻腔, 呼吸系统
+	nostril      鼻孔, 呼吸系统
+	choanae        鼻后孔, 呼吸系统
+	#sphenoethmoidal recess        蝶筛隐窝, 呼吸系统
+	*larynx      喉, 呼吸系统
+	#thyroid cartilage      甲状软骨, 呼吸系统
+	laryngeal prominence       喉结, 呼吸系统
+	#cricoid cartilage      环状软骨, 呼吸系统
+	#epiglottic cartilage       会厌软骨, 呼吸系统
+	#arytenoid cartilage       杓状软骨, 呼吸系统
+	cricothyroid joint      环甲关节, 呼吸系统
+	cricoarytenoid joint      环杓关节, 呼吸系统
+	quadrangular membrane       方形膜, 呼吸系统
+	conus elasticus       弹性圆锥, 呼吸系统
+	#glottis      声门, 呼吸系统
+	#fissure of glottis       声门裂, 呼吸系统
+	#vocal fold       声襞, 呼吸系统
+	#vocal cord       声带, 呼吸系统
+	cricothyroid muscle       环甲肌, 呼吸系统
+	aditus laryngis      喉口, 呼吸系统
+	laryngeal vestibule      喉前庭, 呼吸系统
+	intermedial cavity of larynx      喉中间腔, 呼吸系统
+	ventricle of larynx      喉室, 呼吸系统
+	infraglottic cavity      声门下腔, 呼吸系统
+	carina of trachea      气管隆嵴, 呼吸系统
+	*bronchi      支气管, 呼吸系统
+	*lung  ,pulmo     肺, 呼吸系统
+	#hilum of lung      肺门, 呼吸系统
+	#root of lung   ,radix of lung      肺根, 呼吸系统
+	*pleura      胸膜, 呼吸系统
+	#parietal pleura       壁胸膜, 呼吸系统
+	#visceral pleura        脏胸膜, 呼吸系统
+	#pleural cavity       胸膜腔, 呼吸系统
+	#pleural recess       胸膜隐窝, 呼吸系统
+	#costodiaphragmatic recess       肋膈隐窝, 呼吸系统
+	#mediastinum        纵隔, 呼吸系统
+		*urinary system        泌尿系统, 泌尿系统
+	*kidney   ,ren（拉）  肾, 泌尿系统
+	renal cortex       肾皮质, 泌尿系统
+	renal pelvis       肾盂, 泌尿系统
+	renal sinus       肾窦, 泌尿系统
+	renal pyramids      肾锥体, 泌尿系统
+	renal papillae       肾乳头, 泌尿系统
+	renal hilum       肾门, 泌尿系统
+	major renal calices        肾大盏, 泌尿系统
+	minor renal calices        肾小盏, 泌尿系统
+	fibrous capsule      纤维囊, 泌尿系统
+	fatty renal capsule       脂肪囊, 泌尿系统
+	renal fascia        肾筋膜, 泌尿系统
+	renal region       肾区, 泌尿系统
+	*ureter        输尿管, 泌尿系统
+	*urinary bladder       膀胱, 泌尿系统
+	#trigone of bladder        膀胱三角, 泌尿系统
+	detrusor of bladder        膀胱逼尿肌, 泌尿系统
+	interureteric fold   暂无, 泌尿系统
+	interureteric ridge       输尿管间襞, 泌尿系统
+	vesical uvula       膀胱垂, 泌尿系统
+	ureteric orifice       输尿管口, 泌尿系统
+	internal urethral orifice        尿道内口, 泌尿系统
+	*urethra       尿道, 泌尿系统
+	#pelvic cavity        盆腔, 泌尿系统
+	*genital system    暂无, 生殖系统
+	reproductive system        生殖系统, 生殖系统
+	#male genital organ        男性生殖器官, 生殖系统
+	*testis      睾丸, 生殖系统
+	tunica vaginalis of testis       睾丸鞘膜, 生殖系统
+	epididymis        附睾, 生殖系统
+	#ductus deferens         输精管, 生殖系统
+	ampulla ductus deferentis       输精管壶腹, 生殖系统
+	#spermatic cord       精索, 生殖系统
+	ejaculatory duct       射精管, 生殖系统
+	#scrotum        阴囊, 生殖系统
+	#prostate         前列腺, 生殖系统
+	seminal vesicle       精囊, 生殖系统
+	bulbourethral gland       尿道球腺, 生殖系统
+	#penis        阴茎, 生殖系统
+	bulb of urethra        尿道球, 生殖系统
+	#male urethra        男性尿道, 生殖系统
+	#female genital organ        女性生殖器官, 生殖系统
+	*ovary        卵巢, 生殖系统
+	hilum of ovary        卵巢门, 生殖系统
+	suspensory ligament of ovary   卵巢悬韧带, 生殖系统
+	proper ligament of ovary      卵巢固有韧带, 生殖系统
+	#uterine tube       输卵管, 生殖系统
+	isthmus of uterine tube        输卵管峡, 生殖系统
+	ampulla of uterine tube        输卵管壶腹, 生殖系统
+	infundibulum of uterine tube   输卵管漏斗, 生殖系统
+	fimbriae of uterine tube     输卵管伞, 生殖系统
+	ovarian fimbria      卵巢伞, 生殖系统
+	*uterus  ,womb     子宫, 生殖系统
+	fundus of uterus       子宫底, 生殖系统
+	#neck of uterus       子宫颈, 生殖系统
+	vaginal part of cervix      子宫颈阴道部, 生殖系统
+	supravaginal part of cervix 子宫颈阴道上部, 生殖系统
+	body of uterus      子宫体, 生殖系统
+	horn of uterus       子宫角, 生殖系统
+	isthmus of uterus       子宫峡, 生殖系统
+	cavity of uterus      子宫腔, 生殖系统
+	canal of cervix of uterus       子宫颈管, 生殖系统
+	orifice of uterus      子宫口, 生殖系统
+	broad ligament of uterus       子宫阔韧带, 生殖系统
+	round ligament of uterus       子宫圆韧带, 生殖系统
+	cardinal ligament of uterus      子宫主韧带, 生殖系统
+	uterosacral ligament       子宫骶韧带, 生殖系统
+	#vagina      阴道, 生殖系统
+	vaginal orifice       阴道口, 生殖系统
+	#fornix of vagina        阴道穹, 生殖系统
+	greater vestibular gland        前庭大腺, 生殖系统
+	#pudendum        外阴, 生殖系统
+	vaginal vestibule        阴道前庭, 生殖系统
+	#mamma   ,breast       乳房, 生殖系统
+	mammary       乳头, 生殖系统
+	lobe of mammary gland      乳腺叶, 生殖系统
+	lactiferous duct      输乳管, 生殖系统
+	suspensory ligament of breast       乳房悬韧带, 生殖系统
+	#perineum       会阴, 生殖系统
+	ischioanal fossa   ,ischiorectal fossa      坐骨肛门(直肠)窝, 生殖系统
+	#pelvic diaphragm        盆膈, 生殖系统
+	#urogenital diaphragm        尿生殖膈, 生殖系统
+	perineal body        会阴中心腱, 生殖系统
+	*peritoneum       腹膜, 腹膜
+	parietal peritoneum       壁腹膜, 腹膜
+	visceral peritoneum        脏腹膜, 腹膜
+	#peritoneal cavity        腹膜腔, 腹膜
+	#omentum        网膜, 腹膜
+	#lesser omentum         小网膜, 腹膜
+	hepatogastic ligament        肝胃韧带, 腹膜
+	#hepatoduodenal ligament     肝十二指肠韧带, 腹膜
+	greater omentum       大网膜, 腹膜
+	gastrocolic ligament      胃结肠韧带, 腹膜
+	#omental bursa      网膜囊, 腹膜
+	#omental foramen       网膜孔, 腹膜
+	#mesentery      肠系膜, 腹膜
+	radix of mesentery        肠系膜根, 腹膜
+	#mesoappendix       阑尾系膜, 腹膜
+	#transverse  mesocolon       横结肠系膜, 腹膜
+	#sigmoid mesocolon   ,mesosigmoid       乙状结肠系膜, 腹膜
+	falciform ligament of liver      镰状韧带, 腹膜
+	ligamentum teres hepatic      肝圆韧带, 腹膜
+	coronary ligament        冠状韧带, 腹膜
+	bare area of liver       肝裸区, 腹膜
+	gastrosplenic ligament      胃脾韧带, 腹膜
+	splenorenal ligament      脾肾韧带, 腹膜
+	gastrophrenic ligament        胃膈韧带, 腹膜
+	#hepatorenal recess        肝肾隐窝, 腹膜
+	#rectovesical pouch        直肠膀胱陷凹, 腹膜
+	#vesicouterine pouch         膀胱子宫陷凹, 腹膜
+	#rectouterine pouch        直肠子宫陷凹, 腹膜
+	*endocrine system        内分泌系统, 内分泌系统
+	endocrine gland      内分泌腺, 内分泌系统
+	*hypophysis   ,pituitary gland      垂体, 内分泌系统
+	*thyroid gland      甲状腺, 内分泌系统
+	#parathyroid gland      甲状旁腺, 内分泌系统
+	*suprarenal gland      肾上腺, 内分泌系统
+	#pineal body       松果体, 内分泌系统
+	#pancreatic islet       胰岛, 内分泌系统
+	#thymus       胸腺, 内分泌系统
+	*circulatory system   循环系统, 脉管学
+	*heart  心, 脉管学
+	*artery  动脉, 脉管学
+	#capillary    毛细血管, 脉管学
+	*vein    静脉, 脉管学
+	vascular anastomosis    血管吻合, 脉管学
+	collateral circulation    侧支循环, 脉管学
+	#cardiac apex   心尖, 脉管学
+	#cardiac base   心底, 脉管学
+	#coronary sulcus   冠状沟, 脉管学
+	#anterior interventricular groove    前室间沟, 脉管学
+	#posterior interventricular groove    后室间沟, 脉管学
+	cardiac apical incisure    心尖切迹, 脉管学
+	#auricle of heart    心耳, 脉管学
+	*right atrium    右心房, 脉管学
+	pectinate muscles   梳状肌, 脉管学
+	orifice of coronary sinus   冠状窦口, 脉管学
+	#right atrioventricular orifice    右房室口, 脉管学
+	*fossa ovalis    卵圆窝, 脉管学
+	*right ventricle    右心室, 脉管学
+	papillary muscles   乳头肌, 脉管学
+	chordae tendines    腱索, 脉管学
+	supraventricular crest    室上嵴, 脉管学
+	#septomarginal trabecula    隔缘肉柱, 脉管学
+	#moderator band    节制索, 脉管学
+	*tricuspid valve    三尖瓣, 脉管学
+	#tricuspid valve complex    三尖瓣复合体, 脉管学
+	conus arteriosus    动脉圆锥, 脉管学
+	#pulmonic valve    肺动脉瓣, 脉管学
+	*left atrium    左心房, 脉管学
+	#left atrioventricular  orifice    左房室口, 脉管学
+	*left ventricle    左心室, 脉管学
+	*bicuspid valve  ,mitral valve    二尖瓣, 脉管学
+	#mitral complex    二尖瓣复合体, 脉管学
+	#aortic vestibule    主动脉前庭, 脉管学
+	aortic orifice    主动脉口, 脉管学
+	endocardium    心内膜, 脉管学
+	myocardium    心肌层, 脉管学
+	epicardium    心外膜, 脉管学
+	#interatrial septum    房间隔, 脉管学
+	#interventricular septum    室间隔, 脉管学
+	right fibrous trigone    右纤维三角, 脉管学
+	left fibrous trigone    左纤维三角, 脉管学
+	*pericardium心包, 脉管学
+	fibrous pericardium  纤维性心包, 脉管学
+	serous pericardium    浆膜性心包, 脉管学
+	#pericardial cavity   心包腔, 脉管学
+	#transverse pericardial sinus    心包横窦, 脉管学
+	#oblique pericardial sinus    心包斜窦, 脉管学
+	#conduction system of heart    心传导系, 脉管学
+	*sinuatrial node    窦房结, 脉管学
+	atrioventricular node    房室结, 脉管学
+	atrioventricular bundle    房室束, 脉管学
+	#coronary artery    冠状动脉, 脉管学
+	anterior interventricular branch    前室间支, 脉管学
+	circumflex branch    旋支, 脉管学
+	right marginal branch    右缘支, 脉管学
+	posterior interventricular branch    后室间支, 脉管学
+	#coronary sinus    冠状窦, 脉管学
+	pulmonary trunk    肺动脉干, 脉管学
+	pulmonary artery   肺动脉, 脉管学
+	#arterial ligament    动脉韧带, 脉管学
+	*aorta   主动脉, 脉管学
+	#carotid sinus    颈动脉窦, 脉管学
+	#carotid glomus    颈动脉小球, 脉管学
+	#aortic arch    主动脉弓, 脉管学
+	thoracic aorta    胸主动脉, 脉管学
+	abdominal aorta    腹主动脉, 脉管学
+	#iliac artery    髂动脉, 脉管学
+	testicular artery    睾丸动脉, 脉管学
+	ovarian artery    卵巢动脉, 脉管学
+	#coeliac trunk    腹腔干, 脉管学
+	left gastric artery  胃左动脉, 脉管学
+	common hepatic artery    肝总动脉, 脉管学
+	splenic artery    脾动脉, 脉管学
+	proper hepatic artery    肝固有动脉, 脉管学
+	gastroduodenal artery   胃十二指肠动脉, 脉管学
+	#superior mesenteric artery    肠系膜上动脉, 脉管学
+	jejunal artery    空肠动脉, 脉管学
+	ileal artery    回肠动脉, 脉管学
+	colic artery    结肠动脉, 脉管学
+	#inferior mesenteric artery    肠系膜下动脉, 脉管学
+	sigmoid artery   乙状结肠动脉, 脉管学
+	superior rectal artery  直肠上动脉, 脉管学
+	obturator artery  闭孔动脉, 脉管学
+	superior gluteal artery  臀上动脉, 脉管学
+	inferior gluteal artery  臀下动脉, 脉管学
+	umbilical artery  脐动脉, 脉管学
+	uterine artery  子宫动脉, 脉管学
+	internal pudendal artery  阴部内动脉, 脉管学
+	#femoral artery  股动脉, 脉管学
+	#popliteal artery  腘动脉, 脉管学
+	posterior tibial artery  胫后动脉, 脉管学
+	peroneal artery 腓动脉, 脉管学
+	anterior tibial artery胫前动脉, 脉管学
+	dorsal artery of foot 足背动脉, 脉管学
+	venous valve  静脉瓣, 脉管学
+	#venous angle  静脉角, 脉管学
+	#superior vena cava   上腔静脉, 脉管学
+	#internal jugular vein  颈内静脉, 脉管学
+	angular vein  内眦静脉, 脉管学
+	retromandibular vein  下颌后静脉, 脉管学
+	#pterygoid venous plexus  翼静脉丛, 脉管学
+	cavernous sinus   海绵窦, 脉管学
+	#subclavian vein  锁骨下静脉, 脉管学
+	#external jugular vein  颈外静脉, 脉管学
+	#cephalic vein  头静脉, 脉管学
+	#basilic vein  贵要静脉, 脉管学
+	median cubital vein  肘正中静脉, 脉管学
+	median vein of forearm 前臂正中静脉, 脉管学
+	branchiocephalic vein  头臂静脉, 脉管学
+	#azygos vein  奇静脉, 脉管学
+	hemiazygos vein  半奇静脉, 脉管学
+	#inferior vena cava  下腔静脉, 脉管学
+	#small saphenous vein  小隐静脉, 脉管学
+	#great saphenous vein  大隐静脉, 脉管学
+	hepatic vein  肝静脉, 脉管学
+	*hepatic portal vein  肝门静脉, 脉管学
+	paraumbilical vein  附脐静脉, 脉管学
+	#lymphatic vessels  淋巴管, 脉管学
+	lymphatic trunk  淋巴干, 脉管学
+	#lymphatic duct  淋巴导管, 脉管学
+	*thoracic duct  胸导管, 脉管学
+	cisterna chili  乳糜池, 脉管学
+	#lymph node  淋巴结, 脉管学
+	retroauricular lymph node 耳后淋巴结, 脉管学
+	parotid lymph node  腮腺淋巴结, 脉管学
+	submandibular lymph node  下颌下淋巴结, 脉管学
+	supraclavicular lymph node  锁骨上淋巴结, 脉管学
+	pectoral lymph node  胸肌淋巴结, 脉管学
+	lateral lymph node  外侧淋巴结, 脉管学
+	subscapular lymph node  肩胛下淋巴结, 脉管学
+	central lymph node  中央淋巴结, 脉管学
+	bronchopulmonary lymph node  支气管肺淋巴结, 脉管学
+	superficial inguinal lymph node  腹股沟浅淋巴结, 脉管学
+	deep inguinal lymph node  腹股沟深淋巴结, 脉管学
+	lumbar lymph node  腰淋巴结, 脉管学
+	celiac lymph node  腹腔淋巴结, 脉管学
+	superior mesenteric lymph node  肠系膜上淋巴结, 脉管学
+	inferior mesenteric lymph node  肠系膜下淋巴结, 脉管学
+	*spleen  脾, 脉管学
+	sensory organ  感觉器官, 感觉器官
+	special sense    特殊感觉, 感觉器官
+	olfactory organ ,organ of smell  嗅器, 感觉器官
+	gustatory organ , organ of taste  味器, 感觉器官
+	#optic organ  ,#visual organ   视器, 感觉器官
+	*eyeball   眼球, 感觉器官
+	*cornea  角膜, 感觉器官
+	*sclera  巩膜, 感觉器官
+	*iris  虹膜, 感觉器官
+	*pupil  瞳孔, 感觉器官
+	#ciliary body  睫状体, 感觉器官
+	choroid  脉络膜, 感觉器官
+	*retina  视网膜, 感觉器官
+	#optic disc 视神经盘, 感觉器官
+	#macula lutea 黄斑, 感觉器官
+	anterior chamber  前房, 感觉器官
+	aqueous humor  房水, 感觉器官
+	*lens  晶状体, 感觉器官
+	vitreous body  玻璃体, 感觉器官
+	#eyelid  眼睑, 感觉器官
+	conjunctiva  结膜, 感觉器官
+	lacrimal apparatus  泪器, 感觉器官
+	*vestibulocochlear organ  前庭窝器, 感觉器官
+	external auditory meatus  外耳道, 感觉器官
+	#tympanic membrane  鼓膜, 感觉器官
+	#tympanic cavity  鼓室, 感觉器官
+	mastoid antrum  乳突窦, 感觉器官
+	labyrinth 迷路, 感觉器官
+	vestibule  前庭, 感觉器官
+	bony semicircular canals  骨半规管, 感觉器官
+	cochlea  耳蜗, 感觉器官
+	#spiral organ 螺旋器, 感觉器官
+	*nervous system       神经系统, 神经系统
+	*neurology       神经学, 神经系统
+	*central nervous system      中枢神经系统, 神经系统
+	*peripheral nervous system      周围神经系统, 神经系统
+	#somatic nerve      躯体神经, 神经系统
+	#visceral nerve      内脏神经, 神经系统
+	visceral nervous system       内脏神经系统, 神经系统
+	#autonomic nervous system     自主神经系统, 神经系统
+	visceral motor nerve      内脏运动神经, 神经系统
+	visceral sensory nerve       内脏感觉神经, 神经系统
+	afferent nerve       传入神经, 神经系统
+	efferent nerve       传出神经, 神经系统
+	#sympathetic nerve        交感神经, 神经系统
+	#parasympathetic nerve        副交感神经, 神经系统
+	#gray matter        灰质, 神经系统
+	#cortex        皮质, 神经系统
+	*nucleus        神经核, 神经系统
+	#white matter       白质, 神经系统
+	#medulla        髓质, 神经系统
+	#fasciculus       纤维束, 神经系统
+	*ganglion        神经节, 神经系统
+	*nerve        神经, 神经系统
+	nerve plexus      神经丛, 神经系统
+	anterior root      前根, 周围神经系统
+	posterior root       后根, 周围神经系统
+	#spinal ganglion        脊神经节, 周围神经系统
+	cervical nerve       颈神经, 周围神经系统
+	thoracic nerve       胸神经, 周围神经系统
+	lumbar nerve       腰神经, 周围神经系统
+	sacral nerve        骶神经, 周围神经系统
+	coccygeal nerve        尾神经, 周围神经系统
+	greater occipital nerve         枕大神经, 周围神经系统
+	superior gluteal nerve         臀上皮神经, 周围神经系统
+	middle gluteal nerve        臀中皮神经, 周围神经系统
+	#cervical plexus        颈丛, 周围神经系统
+	lesser occipital nerve       枕小神经, 周围神经系统
+	great auricular nerve       耳大神经, 周围神经系统
+	transverse nerve of neck      颈横神经（颈皮神经）, 周围神经系统
+	supraclavicular nerve        锁骨上神经, 周围神经系统
+	#phrenic nerve        膈神经, 周围神经系统
+	#brachial plexus      臂丛, 周围神经系统
+	long thoracic nerve       胸长神经, 周围神经系统
+	dorsal scapular nerve       肩胛背神经, 周围神经系统
+	suprascapular nerve       肩胛上神经, 周围神经系统
+	subscapular nerve       肩胛下神经, 周围神经系统
+	medial pectoral nerve        胸内侧神经, 周围神经系统
+	lateral pectoral nerve       胸外侧神经, 周围神经系统
+	thoracodorsal nerve        胸背神经, 周围神经系统
+	#axillary nerve        腋神经, 周围神经系统
+	#musculocutaneous nerve      肌皮神经, 周围神经系统
+	#median nerve       正中神经, 周围神经系统
+	#ulnar nerve        尺神经, 周围神经系统
+	#radial nerve       桡神经, 周围神经系统
+	medial brachial cutaneous nerve    臂内侧皮神经, 周围神经系统
+	medial antebrachial cutaneous nerve   前臂内侧皮神经, 周围神经系统
+	#intercostal nerve       肋间神经, 周围神经系统
+	subcostal nerve       肋下神经, 周围神经系统
+	intercostobrachial nerve        肋间臂神经, 周围神经系统
+	#lumbar plexus       腰丛, 周围神经系统
+	iliohypogastric nerve        骼腹下神经, 周围神经系统
+	ilioinguinal nerve        骼腹股沟神经, 周围神经系统
+	lateral femoral cutaneous nerve     股外侧皮神经, 周围神经系统
+	#femoral nerve       股神经, 周围神经系统
+	#obturator nerve        闭孔神经, 周围神经系统
+	genitofemoral nerve       生殖股神经, 周围神经系统
+	#sacral plexus       骶丛, 周围神经系统
+	#superior gluteal nerve      臀上神经, 周围神经系统
+	#inferior gluteal nerve       臀下神经, 周围神经系统
+	posterior femoral cutaneous nerve    股后皮神经, 周围神经系统
+	pudendal nerve        阴部神经, 周围神经系统
+	#sciatic nerve       坐骨神经, 周围神经系统
+	#tibial nerve        胫神经, 周围神经系统
+	medial plantar nerve        足底内侧神经, 周围神经系统
+	lateral plantar nerve        足底外侧神经, 周围神经系统
+	#common peroneal nerve        腓总神经, 周围神经系统
+	superficial peroneal nerve      腓浅神经, 周围神经系统
+	deep peroneal nerve       腓深神经, 周围神经系统
+	*cranial nerve      脑神经, 周围神经系统
+	#optic nerve       视神经, 周围神经系统
+	#oculomotor nerve      动眼神经, 周围神经系统
+	#ciliary ganglion       睫状神经节, 周围神经系统
+	#trochlear nerve       滑车神经, 周围神经系统
+	#trigeminal nerve       三叉神经, 周围神经系统
+	#ophthalmic nerve       眼神经, 周围神经系统
+	frontal nerve       额神经, 周围神经系统
+	supraorbital nerve        眶上神经, 周围神经系统
+	supratrochlear nerve        滑车上神经, 周围神经系统
+	#maxillary nerve       上颌神经, 周围神经系统
+	#infraorbital nerve       眶下神经, 周围神经系统
+	superior alveolar nerves       上牙槽神经, 周围神经系统
+	#mandibular nerve       下颌神经, 周围神经系统
+	auriculotemporal nerve       耳颞神经, 周围神经系统
+	buccal nerve       颊神经, 周围神经系统
+	#lingual nerve      舌神经, 周围神经系统
+	inferior alveolar nerve        下牙槽神经, 周围神经系统
+	#abducent nerve       展神经, 周围神经系统
+	#facial nerve       面神经, 周围神经系统
+	#chorda tympani        鼓索, 周围神经系统
+	greater petrosal nerve       岩大神经（岩浅大神经）, 周围神经系统
+	#pterygopalatine ganglion  翼腭神经节（蝶腭神经节）, 周围神经系统
+	#submandibular ganglion      下颌下神经节, 周围神经系统
+	#vestibulocochlear nerve      前庭蜗神经, 周围神经系统
+	vestibular nerve       前庭神经, 周围神经系统
+	cochlear nerve       蜗神经, 周围神经系统
+	#glossopharyngeal nerve       舌咽神经, 周围神经系统
+	#otic ganglion        耳神经节, 周围神经系统
+	#vagus nerve        迷走神经, 周围神经系统
+	superior laryngeal nerve       喉上神经, 周围神经系统
+	#recurrent laryngeal nerve       喉返神经, 周围神经系统
+	#accessory nerve       副神经, 周围神经系统
+	#hypoglossal nerve       舌下神经, 周围神经系统
+	paravertebral ganglia      椎旁神经节, 周围神经系统
+	prevertebral ganglia      椎前神经节, 周围神经系统
+	#greater splanchnic nerve        内脏大神经, 周围神经系统
+	lesser splanchnic nerve        内脏小神经, 周围神经系统
+	*spinal cord        脊髓, 中枢神经系统
+	#cauda equina        马尾, 中枢神经系统
+	central canal        中央管, 中枢神经系统
+	#anterior horn         前角, 中枢神经系统
+	#posterior horn        后角, 中枢神经系统
+	#lateral horn       侧角, 中枢神经系统
+	anterior funiculus        前索, 中枢神经系统
+	 lateral funiculus        外侧索, 中枢神经系统
+	posterior funiculus       后索, 中枢神经系统
+	anterior white commissure      白质前连合, 中枢神经系统
+	reticular formation       网状结构, 中枢神经系统
+	#fasciculus gracilis       薄束, 中枢神经系统
+	#fasciculus conatus        楔束, 中枢神经系统
+	anterior spinocerebellar tract   脊髓小脑前束, 中枢神经系统
+	posterior spinocerebellar tract  脊髓小脑后束, 中枢神经系统
+	#corticospinal tract       皮质脊髓束, 中枢神经系统
+	#spinothalamic tract        脊髓丘脑束, 中枢神经系统
+	*brain stem        脑干, 中枢神经系统
+	*medulla oblongata       延髓, 中枢神经系统
+	decussation of pyramid        锥体交叉, 中枢神经系统
+	#gracile nucleus        薄束核, 中枢神经系统
+	#cuneate nucleus      楔束核, 中枢神经系统
+	nucleus of solitary tract        孤束核, 中枢神经系统
+	dorsal nucleus of vagus nerve   迷走神经背核, 中枢神经系统
+	#nucleus ambiguous       疑核, 中枢神经系统
+	#spinal nucleus of trigeminal nerve     三叉神经脊束核, 中枢神经系统
+	#inferior salivatory nucleus       下泌涎核, 中枢神经系统
+	#medial lemniscus        内侧丘系, 中枢神经系统
+	#lateral lemniscus         外侧丘系, 中枢神经系统
+	#pyramidal tract        锥体束, 中枢神经系统
+	#corticonuclear tract        皮质核束, 中枢神经系统
+	medial longitudinal fasciculus      内侧纵束, 中枢神经系统
+	#trigeminal lemmniscus       三叉丘系, 中枢神经系统
+	*pons       脑桥, 中枢神经系统
+	#superior salivatory nucleus      上泌涎核, 中枢神经系统
+	#fourth ventricle       第四脑室, 中枢神经系统
+	hypoglossal triangle        舌下神经三角, 中枢神经系统
+	vagal triangle        迷走神经三角, 中枢神经系统
+	locus ceruleus        蓝斑, 中枢神经系统
+	*mesencephalon   ,midbrain      中脑, 中枢神经系统
+	pretectal area       顶盖前区, 中枢神经系统
+	superior colliculs      上丘, 中枢神经系统
+	inferior colliculs       下丘, 中枢神经系统
+	cerebral peduncle         大脑脚, 中枢神经系统
+	#nucleus of  trochlear nerve       滑车神经核, 中枢神经系统
+	#nucleus of  oculomotor nerve   动眼神经核, 中枢神经系统
+	#accessory nucleus of  oculomotor  nerve   动眼神经副核, 中枢神经系统
+	#red nucleus       红核, 中枢神经系统
+	#substantia nigra        黑质, 中枢神经系统
+	rapheal nuclei       中缝核, 中枢神经系统
+	*cerebellum       小脑, 中枢神经系统
+	#vermis       小脑蚓, 中枢神经系统
+	#cerebellar hemisphere       小脑半球, 中枢神经系统
+	#tonsil of cerebellum      小脑扁桃体, 中枢神经系统
+	spinocerebellum        脊髓小脑, 中枢神经系统
+	cerebrocerebellum       大脑小脑, 中枢神经系统
+	vestibule cerebellum        前庭小脑, 中枢神经系统
+	*diencephalons       间脑, 中枢神经系统
+	epithalamus        上丘脑, 中枢神经系统
+	dorsal thalamus    , thalamus     背侧丘脑, 中枢神经系统
+	metathalamus        后丘脑, 中枢神经系统
+	#medial geniculate body       内侧膝状体, 中枢神经系统
+	#lateral geniculate body        外侧膝状体, 中枢神经系统
+	#hypothalamus       下丘脑, 中枢神经系统
+	optic chiasma       视交叉, 中枢神经系统
+	#supraoptic nucleus      视上核, 中枢神经系统
+	#paraventricular nucleus      室旁核, 中枢神经系统
+	infundibular nucleus       漏斗核, 中枢神经系统
+	hypophysial portal       垂体门脉, 中枢神经系统
+	subthalamus        底丘脑, 中枢神经系统
+	supraopticohypophyseal tract    视上垂体束, 中枢神经系统
+	optic radiation      视辐射, 中枢神经系统
+	acoustic radiation      听辐射, 中枢神经系统
+	#third ventricle      第三脑室, 中枢神经系统
+	*telencephalon      端脑, 中枢神经系统
+	*brain   ,encephalon      脑, 中枢神经系统
+	*cerebrum      大脑, 中枢神经系统
+	cerebral hemisphere  大脑半球, 中枢神经系统
+	#gyrus  脑回, 中枢神经系统
+	#cerebral cortex       大脑皮质, 中枢神经系统
+	crus cerebri       大脑脚底, 中枢神经系统
+	interpeduncular fossa      脚间窝, 中枢神经系统
+	#precentral gyrus       中央前回, 中枢神经系统
+	superior frontal gyrus        额上回, 中枢神经系统
+	middle frontal gyrus        额中回, 中枢神经系统
+	inferior frontal gyrus        额下回, 中枢神经系统
+	postcenral gyrus        中央后回, 中枢神经系统
+	#angular gyrus        角回, 中枢神经系统
+	#transverse temporal gyrus        颞横回, 中枢神经系统
+	#calcaine sulcus        距状沟, 中枢神经系统
+	projection fibers        投射纤维, 中枢神经系统
+	#limbic system        边缘系统, 中枢神经系统
+	#hippocampus        海马, 中枢神经系统
+	#lateral ventricle        侧脑室, 中枢神经系统
+	#basal nuclei        基底核, 中枢神经系统
+	#corpus striatum        纹状体, 中枢神经系统
+	#caudate nucleus        尾状核, 中枢神经系统
+	#lentiform nucleus        豆状核, 中枢神经系统
+	#globus pallidus        苍白球, 中枢神经系统
+	claustrum        屏状核, 中枢神经系统
+	#amygdaloid body        杏仁体, 中枢神经系统
+	#corpus callosum        胼胝体, 中枢神经系统
+	#fornix       穹隆, 中枢神经系统
+	#internal capsule        内囊, 中枢神经系统
+	#anterior commissure       前连合, 中枢神经系统
+	#pyramidal system        椎体系, 中枢神经系统
+	#extrapyramidal system       椎体外系, 中枢神经系统
+	#cerebrospinal fluid      脑脊液, 脑和脊膜的被膜、血管及脑脊液循环
+	#meninges      脑脊膜, 脑和脊膜的被膜、血管及脑脊液循环
+	#spinal dura mater      硬脊膜, 脑和脊膜的被膜、血管及脑脊液循环
+	#epidural space      硬膜外隙, 脑和脊膜的被膜、血管及脑脊液循环
+	#spinal arachnoid      脊髓蛛网膜, 脑和脊膜的被膜、血管及脑脊液循环
+	#subarachnoid space      蛛网膜下隙, 脑和脊膜的被膜、血管及脑脊液循环
+	#spinal pia mater      软脊膜, 脑和脊膜的被膜、血管及脑脊液循环
+	#cerebral dura mater      硬脑膜, 脑和脊膜的被膜、血管及脑脊液循环
+	#cerebral falx      大脑镰, 脑和脊膜的被膜、血管及脑脊液循环
+	tentorium of cerebellum      小脑幕, 脑和脊膜的被膜、血管及脑脊液循环
+	cerebral arachnoid mater      脑蛛网膜, 脑和脊膜的被膜、血管及脑脊液循环
+	#arachnoid granulations      蛛网膜粒, 脑和脊膜的被膜、血管及脑脊液循环
+	#cerebral pia mater      软脑膜, 脑和脊膜的被膜、血管及脑脊液循环
+	#cerebral arterial circle      大脑动脉环（Willis环）, 脑和脊膜的被膜、血管及脑脊液循环
+	cerebrospinal  fluid-contacting  neurons  (CSFCN)   触液神经元, 脑和脊膜的被膜、血管及脑脊液循环
+	blood-brain barrier      血－脑屏障, 脑和脊膜的被膜、血管及脑脊液循环
+	 *triangle of auscultation      听诊三角, 局部解剖学
+	*superior lumbar triangle      腰上三角, 局部解剖学
+	*inferior lumber triangle       腰下三角, 局部解剖学
+	#axillary sheath      腋鞘, 局部解剖学
+	intercostals space      肋间隙, 局部解剖学
+	thoracolumbar fascia       胸腰筋膜, 局部解剖学
+	*renal region       肾区, 局部解剖学
+	*sheath of rectus abdominis      腹直肌鞘, 局部解剖学
+	*inguinal canal       腹股沟管, 局部解剖学
+	#conjoined tendon        联合腱, 局部解剖学
+	#inguinal triangle       腹股沟三角, 局部解剖学
+	#urogenital diaphragm       尿生殖膈, 局部解剖学
+	*pelvic diaphragm      盆膈, 局部解剖学
+	#spermatic cord       精索, 局部解剖学
+	*scalp       头皮, 局部解剖学
+	temporal space      颞间隙, 局部解剖学
+	*carotid sheath       颈动脉鞘, 局部解剖学
+	#suprasternal space      胸骨上间隙, 局部解剖学
+	*pretracheal space      气管前间隙, 局部解剖学
+	#submandibular triangle      肌三角, 局部解剖学
+	#occipital triangle       枕三角, 局部解剖学
+	*scalene space       斜角肌间隙, 局部解剖学
+	#ansa cervicalis      颈袢, 局部解剖学
+	*carpal canal      腕管, 局部解剖学
+	*cubital fossa      肘窝, 局部解剖学
+	midpalmar spae       掌中间隙, 局部解剖学
+	*superficial palmar arch      掌浅弓, 局部解剖学
+	#saphenous hiatus       隐经脉裂孔, 局部解剖学
+	*lacuna vasorum      血管腔隙, 局部解剖学
+	*lacuna musculorum        肌腔隙, 局部解剖学
+	femoral canal  股管, 局部解剖学
+	femoral ring  股环, 局部解剖学
+	*femoral triangle       股三角, 局部解剖学
+	#adductor canal        收肌管, 局部解剖学
+	*popliteal fossa       腘窝, 局部解剖学
+	#malleolar canal        踝管, 局部解剖学
+	#pulmonary ligament        肺韧带, 局部解剖学
+	*costodiaphragmatic recess       肋膈隐窝, 局部解剖学
+	*transverse sinus of pericardium  心包横窦, 局部解剖学
+	#oblique sinus of pericardium      心包斜窦, 局部解剖学
+	*hepatorenal recess      肝肾隐窝, 局部解剖学
+	*cystohepatic triangle      胆囊三角 (Calot's triangle), 局部解剖学
+	#hepatopancreatic ampulla       肝胰壶腹, 局部解剖学
+	#omental bursa       网膜囊, 局部解剖学
+	*omental foramen      网膜孔, 局部解剖学
+	*rectouterine pouch     直肠子宫陷凹 (Douglas's cavity), 局部解剖学
+	*rectovesical pouch     直肠膀胱陷凹, 局部解剖学
+	*retropublic space      耻骨后隙, 局部解剖学
+	*retrorectal space      直肠后隙, 局部解剖学

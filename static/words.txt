@@ -1,0 +1,1121 @@
+
+人体解剖学常用名词
+1.	*human anatomy []  人体解剖学
+2.	*systematic anatomy  [] 系统解剖学
+3.	*topographic anatomy []
+4.	*regional anatomy[] 局部解剖学
+5.	applied anatomy [] 应用解剖学
+人体部分词汇
+6.	caput [],  *head [] 头
+7.	#cranio- []，*cranium[] 颅
+8.	*face [] 面
+9.	#nasus []，*nose [] 鼻
+10.	#os []，*mouth [] 口
+11.	#auris [ris]，*ea r[i] 耳
+12.	#oculus [kjuls]，*eye [] 眼
+13.	#cervix []，#collum []，*neck []	颈
+14.	*trunk  [] 躯干
+15.	*chest  [] 胸
+16.	*abdomen [] 腹
+17.	#dorsum [d]，*back [] 背
+18.	#lumbus []腰(部)
+19.	#loin [] 腰
+20.	#membrum []，*limb [] 肢
+一般方位词汇
+21.	#vertical [] 垂直
+22.	#horizontal [] 水平
+23.	#median [] 正中
+24.	#sagittal [] 矢状
+25.	#coronal [] 冠状
+26.	#transverse [trnzv] 横
+27.	dexter []，#right [] 右
+28.	sinister []，#left [] 左
+29.	#medial [] 内侧
+30.	#lateral [] 外侧
+31.	intermediate [] 中间
+32.	collateral [] 侧的，副的
+33.	#internal [] 内
+34.	#external [] 外
+35.	#anterior [] 前
+36.	#posterior [] 后
+37.	#ventral [] 腹侧
+38.	#dorsal [] 背侧
+39.	#superior [] 上
+40.	#inferior [] 下
+41.	#superficial [] 浅
+42.	profundus []，#deep [] 深
+43.	#proximal [] 近侧
+44.	#distal [] 远侧
+45.	#central [] 中央，中心
+46.	#peripheral [] 周围
+47.	#radial [] 桡侧
+48.	#ulnar [] 尺侧
+49.	#tibial [] 胫侧
+50.	#fibular [] 腓侧
+骨学
+51.	osteologia []，osteology []骨学
+52.	*os []， bone [] 骨
+53.	diaphysis []，shaft[]骨干
+54.	medullary [] 髓质的, 骨髓的, 脊髓的
+55.	#epiphysial line [] 骺线
+56.	 osseous substance[] 骨质
+57.	 compact bone [] 骨密质
+58.	 spongy bone [] 骨松质
+59.	 #cartilage [] 软骨
+60.	 #epiphysial cartilage [] 骺软骨
+61.	 #diploe [] 板障
+62.	 #periosteum [] 骨膜
+63.	 #bone marrow [] 骨髓
+64.	 #process [] 突
+65.	 #spine [] 棘
+66.	 #eminence [] 隆起
+67.	 #tuberosity [] 粗隆
+68.	 #tuber[]结节
+69.	 #crest[]嵴
+70.	 #fossa[]窝
+71.	 #fovea[]凹
+72.	 #foveolar[] 小凹的,孔穴的
+73.	 #sulcus[]沟
+74.	 #impression[]压迹
+75.	 #cavity[]腔
+76.	 #sinus[]窦
+77.	 #antrum[]房
+78.	 cellula[]小房
+79.	 #canal[]管
+80.	 #meatus []道
+81.	 #aperture[]口
+82.	 #foramen[]孔
+83.	 #hiatus[]裂孔
+84.	 #capitulum[]小头
+85.	 #condyle[]髁
+86.	 #epicondyle[]上髁
+87.	 #surface[]面
+88.	 #border []缘
+89.	 #notch []切迹
+90.	*vertebra []椎骨
+91.	#vertebral body []椎体
+92.	#vertebral canal []椎管
+93.	#vertebral arch []椎弓
+94.	#intervertebral foramina[]椎间孔
+95.	*cervical vertebrae[]颈椎
+96.	#atlas[]寰椎
+97.	#axis []枢椎
+98.	#vertebra prominens[]隆椎
+99.	*thoracic vertebrae []胸椎
+100.	*lumbar vertebrae []腰椎
+101.	*sacrum []骶骨
+102.	sacral hiatus []骶管裂孔
+103.	sacral cornu []骶角
+104.	*coccyx[]尾骨
+105.	#vertebral column[]脊柱
+106.	*costa [],*rib []肋
+107.	#costal bone[]肋骨
+108.	costal cartilage[]肋软骨
+109.	*sternum[]胸骨
+110.	*frontal bone []额骨
+111.	*parietal bone []顶骨
+112.	*occipital bone []枕骨
+113.	foramen magnum[]枕骨大孔
+114.	#external occipital protuberance[]枕外隆凸
+115.	#temporal bone []颞骨
+116.	internal acoustic pore[]内耳门
+117.	styloid process[]茎突
+118.	mastoid process[]乳突
+119.	stylomastoid foramen[]茎乳孔
+120.	*sphenoid bone[]蝶骨
+121.	*ethmoid bone[]筛骨
+122.	nasal bone []鼻骨
+123.	lacrimal bone []泪骨
+124.	*maxilla []上颌骨
+125.	#nasal concha []鼻甲
+126.	palatine bone []腭骨
+127.	#zygomatic bone []颧骨
+128.	*mandible[]下颌骨
+129.	mental foramen[]颏孔
+130.	#hyoid bone []舌骨
+131.	#cranial cavity []颅腔
+132.	suture []缝
+133.	coronal suture []冠状缝
+134.	sagittal suture []矢状缝
+135.	lambdoid suture []人字缝
+136.	#anterior cranial fossa [Anti[]颅前窝
+137.	#middle cranial fossa [midl ]颅中窝
+138.	#posterior cranial fossa []颅后窝
+139.	#pterion [] 翼点
+140.	#temporal fossa []颞窝
+141.	#infratemporal fossa []颞下窝
+142.	#pterygopalatine fossa []翼腭窝
+143.	#orbit [] 眶
+144.	fontanel(le)[]囟
+145.	cranial fontanelle []颅囟
+146.	nasolacrimal canal []鼻泪管
+147.	#nasal cavity []鼻腔
+148.	#paranasal sinus []鼻旁窦
+149.	#frontal sinus []额窦
+150.	#sphenoidal sinus[]蝶窦
+151.	#maxillary sinus[]上颌窦
+152.	#ethmoidal sinus[]筛窦
+153.	*scapula []肩胛骨
+154.	acromion []肩峰
+155.	glenoid cavity[]关节盂
+156.	*clavicle []锁骨
+157.	*humerus []肱骨
+158.	sulcus for radial nerve []桡神经沟
+159.	lateral epicondyle []外上髁
+160.	medial epicondyle []内上髁
+161.	olecranon []鹰嘴
+162.	coronoid process[]冠突
+163.	*radius []桡骨
+164.	*ulna []尺骨
+165.	#carpal bones []腕骨
+166.	#metacarpal bones []掌骨
+167.	#phalanges of fingers []指骨
+168.	*hip bone []髋骨
+169.	*ilium []髂骨
+170.	*ischium []坐骨
+171.	*pubis [pju:bis]耻骨
+172.	iliac crest []髂嵴
+173.	*anterior superior iliac spine [] 髂前上棘
+174.	posterior superior iliac spine []髂后上棘
+175.	tubercle of iliac crest[]髂结节
+176.	greater sciatic notch []坐骨大切迹
+177.	lesser sciatic notch [] 坐骨小切迹
+178.	arcuate line []弓状线
+179.	#ischial tuberosity []坐骨结节
+180.	#pubic tubercle []耻骨结节
+181.	#obturator foramen []闭孔
+182.	#acetabulum []髋臼
+183.	*femur [] 股骨
+184.	medial condyle []内侧髁
+185.	lateral condyle []外侧髁
+186.	adductor tubercle[]收肌结节
+187.	*patella []髌骨
+188.	*tibia []胫骨
+189.	*fibula []腓骨
+190.	tarsal bones []跗骨
+191.	talus []距骨
+192.	calcaneus []跟骨
+193.	metatarsal bone[]跖骨
+194.	#phalanges of toes []趾骨
+ARTHROLOGIA,ARTHROLOGY 关节学
+195.	*articulation [],joint []关节
+196.	#synovial joint []滑膜关节n
+197.	articular cartilage []关节软骨
+198.	#articular cavity []关节腔
+199.	#articular capsule []关节囊
+200.	*ligament []韧带
+201.	synovial membrane [ ]滑膜
+202.	#articular disc []关节盘
+203.	#meniscus [minisk]半月板
+204.	articular labrum []关节唇
+205.	fibrous joint [faibrs]纤维连结
+206.	syndesmosis []韧带连结
+207.	cartilaginous joint []软骨连结
+208.	synchondrosis []透明软骨结合
+209.	symphysis[]纤维软骨联合
+210.	synostosis[]骨性结合
+211.	#translation[]移动
+212.	#flexion[]屈
+213.	#extension[]伸
+214.	#adduction[]收
+215.	#abduction []展
+216.	#rotation []旋转
+217.	#medial rotation []旋内
+218.	#lateral rotation []旋外
+219.	#pronation []旋前
+220.	#supination []旋后
+221.	circumduction []环转
+222.	*vertebral column []脊柱
+223.	*intervertebral disc []椎间盘
+224.	anterior longitudinal ligament []前纵韧带
+225.	posterior longitudinal ligament []后纵韧带
+226.	ligmneta flava []黄韧带
+227.	interspinal ligament [intspinl  ]棘间韧带
+228.	supraspinal ligament []棘上韧带
+229.	ligamentum nuchae []项韧带
+230.	zygapophyseal joint []关节突关节
+231.	thorax[]，thoracic cage []胸廓
+232.	sternocostal joint []胸肋关节
+233.	#sternoclavicular joint[]胸锁关节
+234.	*sternal angle []胸骨角
+235.	*costal arch []肋弓
+236.	*temporomandibular joint []  颞下颌关节
+237.	*shoulder joint []肩关节
+238.	*elbow joint []肘关节
+239.	#radiocarpal joint[reidiuka:pl ]，wrist joint[]桡腕关节,腕关节
+240.	*pelvis[]骨盆
+241.	greater pelvis[]大骨盆
+242.	lesser pelvis[]小骨盆
+243.	sacrotuberous ligament []骶结节韧带
+244.	sacrospinous ligment []骶棘韧带
+245.	#pubic symphysis []耻骨联合
+246.	*hip joint []髋关节
+247.	knee joint []膝关节
+248.	#anterior cruciate ligament []前交叉韧带
+249.	#posterior cruciate ligament []后交叉韧带
+250.	#ankle joint []踝关节
+251.	talocalcaneal joint[距跟关节
+MYCOLOGY,MYOLOGY肌学
+252.	*muscle[] 肌
+253.	*tendon [] 腱
+254.	aponeurosis []腱膜
+255.	#fascia []筋膜
+256.	#tendinous sheath []腱鞘
+257.	mesotendon [] 腱系膜
+258.	#facial muscles []， muscles of expression []面肌,表情肌
+259.	galea aponeurotica [] 帽状腱膜
+260.	orbicularis oculi [] 眼轮匝肌
+261.	orbicularis oris [] 口轮匝肌
+262.	#masticatory muscles [] 咀嚼肌
+263.	#masseter [] 咬肌
+264.	#temporalis [] 颞肌
+265.	medial pterygoid  [] 翼内肌
+266.	lateral pterygoid  [] 翼外肌
+267.	*sternocleidomastoid  []  胸锁乳突肌
+268.	#scalenus [] 斜角肌
+269.	#trapezius [] 斜方肌
+270.	#latissimus dorsi [] 背阔肌
+271.	levator scapulae [] 肩胛提肌
+272.	rhomboideus [] 菱形肌
+273.	#erector spinae [] 竖脊肌
+274.	splenius [] 夹肌
+275.	#pectoralis major []  胸大肌
+276.	pectoralis minor []  胸小肌
+277.	serratus anterior []  前锯肌
+278.	intercostales externi  [] 肋间外肌
+279.	intercostales interni  []  肋间内肌
+280.	*diaphragm  [] 膈
+281.	#obliquus externus abdominis  [] 腹外斜肌
+282.	#obliquus internus abdominis  []  腹内斜肌
+283.	#transversus abdominis  [] 腹横肌
+284.	#conjoint tendon  [] 联合键
+285.	#inguinal ligament  []  腹股沟韧带
+286.	#inguinal cana  l[]  腹股沟管
+287.	#rectus abdominis  []  腹直肌
+288.	#sheath of rectus abdominis  腹直肌鞘
+289.	#arcuate line  [] 弓状线（腹直肌鞘）
+290.	linea alba  []  白线
+291.	#thoracolumbar fascia  []  胸腰筋膜
+292.	*deltoid  []  三角肌
+293.	teres  []  圆肌
+294.	subscapularis  []  肩胛下肌
+295.	#biceps brachii  [] 肱二头肌
+296.	coracobrachialis  []喙肱肌
+297.	#brachialis  []  肱肌
+298.	#triceps brachii  []  肱三头肌
+299.	#brachioradialis  []  肱桡肌
+300.	palmaris longus  []  掌长肌
+301.	flexor carpi ulnaris  []  尺侧腕屈肌
+302.	flexor pollicis longus []拇长屈肌
+303.	#pronator teres  []  旋前圆肌
+304.	flexor digitorum superificialis[] 指浅屈肌
+305.	flexor digitorum superificialis profundus
+[] 指深屈肌
+306.	extensor carpi radialis  longus []  桡侧腕长伸肌
+307.	extensor carpi radialis brevis []  桡侧腕短伸肌
+308.	estensor digitorum  []  指伸肌
+309.	extensor pollicis  longus  []  拇长伸肌
+310.	extensor pollicis  brevis   []  拇短伸肌
+311.	thenar  []  鱼际
+312.	opponens pollocis   []  拇对掌肌
+313.	lumbricales  []  蚓状肌
+314.	supinator  [] 旋后肌
+315.	abductor pollicis longus [bdkt]  拇长展肌
+316.	abductor pollicis brevis [bdkt]  拇短展肌
+317.	*cubital fossa   []   肘窝
+318.	#carpal canal  []  腕管
+319.	axillary fossa  []  腋窝
+320.	deltopectoral groove  []  三角胸肌间沟
+321.	#trilateral foramen  []  三边孔
+322.	#quadrilateral foramen  []  四边孔
+323.	#gluteus  []  臀肌
+324.	piriformis  []  梨状肌
+325.	iliopsoas  []  髂腰肌
+326.	psoas []   腰大肌
+327.	#quadriceps femoris  [w]  股四头肌
+328.	sartorius  []  缝匠肌
+329.	gracilis  []  股薄肌
+330.	adductor longus  []  长收肌
+331.	adductor brevis  []  短收肌
+332.	adductor magnus  [] 大收肌
+333.	#biceps femoris  []  股二头肌
+334.	#semitendinosus  []  半腱肌
+335.	#semimenbranosus  []  半膜肌
+336.	tibialis anterior  []  胫骨前肌
+337.	extensor hallucis longus []拇长伸肌
+338.	peroneus  longus []  腓骨长肌
+339.	peroneus  brevis []  腓骨短肌
+340.	#tibialis posterior  [] 胫骨后肌
+341.	#triceps surae [] 小腿三头肌
+342.	#gastrocnemius  [] 腓肠肌
+343.	#soleus  [] 比目鱼肌
+344.	#tendo calcaneus  [] 跟腱
+345.	#femoral triangle [fem] 股三角
+346.	#adductor canal [] 收肌管
+347.	#popliteal fossa [] 腘窝
+内脏学
+348.	#splanchnology  []  内脏学
+349.	#viscera  []  内脏（单 viscus []）
+350.	anterior median line  []  前正中线
+351.	sternal line  []  胸骨线
+352.	#midclavicular line  []  锁骨中线
+353.	parasternal line  []  胸骨旁线
+354.	anterior axillary line  []腋前线
+355.	posterior axillary line  [ ]  腋后线
+356.	#midaxillary line  []  腋中线
+357.	#scapular line  []  肩胛线
+358.	posterior median line  []  后正中线
+消化系统
+359.	*digestive system  [], alimentary system  []                    消化系统
+360.	alimentary canal  []  消化管
+361.	alimentary gland  []  消化腺
+362.	*oral cavity  []  口腔
+363.	oral lip  []  口唇
+364.	nasolabial sulcus  []  鼻唇沟
+365.	#cheek  []  颊
+366.	papilla of parotid duct  []  腮腺管乳头
+367.	#palate  []  腭
+368.	hard palate  []  硬腭
+369.	soft palate  []  软腭
+370.	velum palatinum  []  腭帆
+371.	#uvula  [] 腭垂
+372.	palatoglossal arch   []  腭舌弓
+373.	palatopharyngeal arch   []  腭咽弓
+374.	#isthmus of fauces  []  咽峡
+375.	*tooth  []，dens  []，dent  []  牙
+376.	#deciduous teeth  []  乳牙
+377.	#permanent teeth  []  恒牙
+378.	wisdom tooth  []  迟牙，智牙
+379.	incisors  []  切牙
+380.	canine teeth  []  尖牙
+381.	molars  [z]  磨牙
+382.	premolars  [z]  前磨牙
+383.	crown of tooth  []  牙冠
+384.	root of tooth   []  牙根
+385.	neck of tooth   []  牙颈
+386.	dentine  []  牙质
+387.	enamel  []  釉质
+388.	cement  []  牙骨质
+389.	dental pulp  []  牙髄
+390.	*tongue  []，lingua  []  舌
+391.	body of tongue   []  舌体
+392.	root of tongue   []  舌根
+393.	apex of tongue   []  舌尖
+394.	terminal sulcus   []  界沟
+395.	#filiform papillae   []   丝状乳头
+396.	#fungiform papillae  []   菌状乳头
+397.	#foliate papillae  []  叶状乳头
+398.	#vallate papillae  []   轮廓乳头
+399.	*tonsil  []  扁桃体
+400.	lingual tonsil  []  舌扁桃体
+401.	frenulum of tongue  []  舌系带
+402.	sublingual caruncle  []  舌下阜
+403.	sublingual fold  []  舌下襞
+404.	#genioglossus  []  颏舌肌
+405.	#salivary gland  []  唾液腺
+406.	#parotid gland  []  腮腺
+407.	parotid duct  []  腮腺管
+408.	#submandibular gland  [] 下颌下腺
+409.	#sublingual gland  []  舌下腺
+410.	*pharynx  []  咽
+411.	#nasopharynx  []   鼻咽
+412.	auditory tube  []   咽鼓管
+413.	pharyngeal opening of auditory tube  []咽鼓管咽口
+414.	 tubal torus  []   咽鼓管圆枕
+415.	pharyngeal recess  []  咽隐窝
+416.	#oropharynx   []  口咽
+417.	epiglottic vallecula  []  会厌谷
+418.	palatine tonsil  []  腭扁桃体
+419.	#laryngopharynx  []   喉咽
+420.	#piriform recess   []   梨状隐窝
+421.	*esophagus   []  食管
+422.	*stomach  []，gaster  []，ventriculus  []  胃
+423.	#cardia  []  贲门
+424.	#pylorus  []  幽门
+425.	pyloric canal  []  幽门管
+426.	pyloric antrum  []  幽门窦
+427.	pyloric valve  []  幽门瓣
+428.	pyloric sphincter  []  幽门括约肌
+429.	#bowel  []，intestine  []   肠
+430.	#small intestine   []   小肠
+431.	*duodenum   []   十二指肠
+432.	superior duodenal flexure  []  十二指肠上曲
+433.	duodenal bulb  []  十二指肠球
+434.	inferior duodenal flexure  []  十二指肠下曲
+435.	longitudinal fold of duodenum  []十二指肠纵襞
+436.	#major duodenal papilla  []  十二指肠大乳头
+437.	#duodenojejunal flexure  []  十二指肠空肠曲
+438.	#suspensory ligament of duodenum  [] 十二指肠悬韧带
+439.		*jejunum   []   空肠
+440.	*ileum  []   回肠
+441.	#large intestine  []  大肠
+442.	colic bands   []   结肠带
+443.	haustra of colon   []   结肠袋
+444.	epiploicae appendices   []  肠脂垂
+445.	#caecum   []  盲肠
+446.	ileocecal orifice   []   回盲口
+447.	ileocecal valve   []  回盲瓣
+448.	*vermiform appendix  []， appendix []  阑尾
+449.	*colon   []   结肠
+450.	#ascending colon  [  ]   升结肠
+451.	#transverse colon   []   横结肠
+452.	#descending colon   []   降结肠
+453.	#sigmoid colon   []   乙状结肠
+454.	*rectum []   直肠
+455.	sacral flexure of rectum   []  直肠骶曲
+456.	perineal flexure of rectum   []   直肠会阴曲
+457.	ampulla of rectum   []   直肠壶腹
+458.	#anal canal   []   肛管
+459.	anal column   []  肛柱
+460.	anal valve   []   肛瓣
+461.	anal sinus   []   肛窦
+462.	#dentate line   []   齿状线
+463.	#anus   []   肛门
+464.	*liver   []   肝
+465.	#porta hepatis   []   肝门
+466.	fissure for teres hepatis   []  肝圆韧带裂
+467.	fissure for ligamentum venosum  [] 静脉韧带裂
+468.	fossa for gallbladder   []  胆囊窝
+469.	sulcus for vena cava   []   腔静脉沟
+470.	*gallbladder   []   胆囊
+471.	fundus of gallbladder   []   胆囊底
+472.	body of gallbladder   []   胆囊体
+473.	neck of gallbladder   [  ]   胆囊颈
+474.	cystic duct    []  胆囊管
+475.	common hepatic duct   []   肝总管
+476.	#common bile duct    []   胆总管
+477.	hepatopancreatic ampulla   []   肝胰壶腹
+478.	*pancreas    []   胰
+呼吸系统
+479.	*respiratory system    []，呼吸系统
+480.		 nasal septum    []   鼻中隔
+481.	#nasal cavity    []   鼻腔
+482.	nostril   []   鼻孔
+483.	choanae    []    鼻后孔
+484.	#sphenoethmoidal recess    []    蝶筛隐窝
+485.	*larynx   []   喉
+486.	#thyroid cartilage   []   甲状软骨
+487.	laryngeal prominence    []   喉结
+488.	#cricoid cartilage   []   环状软骨
+489.	#epiglottic cartilage    []   会厌软骨
+490.	#arytenoid cartilage    []   杓状软骨
+491.	cricothyroid joint   []   环甲关节
+492.	cricoarytenoid joint   []   环杓关节
+493.	quadrangular membrane    []   方形膜
+494.	conus elasticus    []   弹性圆锥
+495.	#glottis   []   声门
+496.	#fissure of glottis    []   声门裂
+497.	#vocal fold   []    声襞
+498.	#vocal cord    []   声带
+499.	cricothyroid muscle    []   环甲肌
+500.	aditus laryngis   []   喉口
+501.	laryngeal vestibule   []   喉前庭
+502.	intermedial cavity of larynx   []   喉中间腔
+503.	ventricle of larynx   []   喉室
+504.	infraglottic cavity   []   声门下腔
+505.	carina of trachea   []   气管隆嵴
+506.	*bronchi   []   支气管
+507.	*lung  []，pulmo  []   肺
+508.	#hilum of lung   []   肺门
+509.	#root of lung   []，radix of lung   []   肺根
+510.	*pleura   []   胸膜
+511.	#parietal pleura    []   壁胸膜
+512.	#visceral pleura    []    脏胸膜
+513.	#pleural cavity    []   胸膜腔
+514.	#pleural recess    []   胸膜隐窝
+515.	#costodiaphragmatic recess    []   肋膈隐窝
+516.	#mediastinum    []    纵隔
+泌尿系统
+517.		*urinary system    []    泌尿系统
+518.	*kidney   []，ren（拉）  肾
+519.	renal cortex   []    肾皮质
+520.	renal pelvis   []    肾盂
+521.	renal sinus   []    肾窦
+522.	renal pyramids   []   肾锥体
+523.	renal papillae    []   肾乳头
+524.	renal hilum    []   肾门
+525.	major renal calices    []    肾大盏
+526.	minor renal calices    []    肾小盏
+527.	fibrous capsule   []   纤维囊
+528.	fatty renal capsule    []   脂肪囊
+529.	renal fascia    []    肾筋膜
+530.	renal region    []   肾区
+531.	*ureter    []    输尿管
+532.	*urinary bladder   []    膀胱
+533.	#trigone of bladder    []    膀胱三角
+534.	detrusor of bladder    []    膀胱逼尿肌
+535.	interureteric fold   []，
+536.	interureteric ridge   []    输尿管间襞
+537.	vesical uvula    []   膀胱垂
+538.	ureteric orifice    []   输尿管口
+539.	internal urethral orifice    []    尿道内口
+540.	*urethra    []   尿道
+541.	#pelvic cavity    []    盆腔
+生殖系统
+542.	*genital system    []，
+543.	reproductive system    []    生殖系统
+544.	#male genital organ    []    男性生殖器官
+545.	*testis   []   睾丸
+546.	tunica vaginalis of testis    []   睾丸鞘膜
+547.	epididymis    []    附睾
+548.	#ductus deferens     []    输精管
+549.	ampulla ductus deferentis    []   输精管壶腹
+550.	#spermatic cord    []   精索
+551.	ejaculatory duct    []   射精管
+552.	#scrotum    []    阴囊
+553.	#prostate     []    前列腺
+554.	seminal vesicle    []   精囊
+555.	bulbourethral gland    []   尿道球腺
+556.	#penis    []    阴茎
+557.	bulb of urethra    []    尿道球
+558.	#male urethra    []    男性尿道
+559.	#female genital organ    []    女性生殖器官
+560.	*ovary    []    卵巢
+561.	hilum of ovary    []    卵巢门
+562.	suspensory ligament of ovary  [] 卵巢悬韧带
+563.	proper ligament of ovary   []   卵巢固有韧带
+564.	#uterine tube    []   输卵管
+565.	isthmus of uterine tube    []    输卵管峡
+566.	ampulla of uterine tube    []    输卵管壶腹
+567.	infundibulum of uterine tube  [] 输卵管漏斗
+568.	fimbriae of uterine tube   [： ]  输卵管伞
+569.	ovarian fimbria   [ ]   卵巢伞
+570.	*uterus  []，womb  []   子宫
+571.	fundus of uterus    []   子宫底
+572.	#neck of uterus    [  ]   子宫颈
+573.	vaginal part of cervix   []   子宫颈阴道部
+574.	supravaginal part of cervix []子宫颈阴道上部
+575.	body of uterus   [  ]   子宫体
+576.	horn of uterus    [  ]   子宫角
+577.	isthmus of uterus    [  ]   子宫峡
+578.	cavity of uterus   [  ]   子宫腔
+579.	canal of cervix of uterus   [  ]    子宫颈管
+580.	orifice of uterus   [  ]   子宫口
+581.	broad ligament of uterus    [  ]   子宫阔韧带
+582.	round ligament of uterus    [  ]   子宫圆韧带
+583.	cardinal ligament of uterus   [  ]   子宫主韧带
+584.	uterosacral ligament    [  ]   子宫骶韧带
+585.	#vagina   []   阴道
+586.	vaginal orifice   []    阴道口
+587.	#fornix of vagina    []    阴道穹
+588.	greater vestibular gland    []    前庭大腺
+589.	#pudendum    []    外阴
+590.	vaginal vestibule    []    阴道前庭
+591.	#mamma   []，breast   []    乳房
+592.	mammary   []    乳头
+593.	lobe of mammary gland   []   乳腺叶
+594.	lactiferous duct   []   输乳管
+595.	suspensory ligament of breast    [ ]   乳房悬韧带
+596.	#perineum    []   会阴
+597.	ischioanal fossa   []，ischiorectal fossa   []   坐骨肛门(直肠)窝
+598.	#pelvic diaphragm    []    盆膈
+599.	#urogenital diaphragm    []    尿生殖膈
+600.	perineal body    []    会阴中心腱
+腹膜
+601.	*peritoneum    []   腹膜
+602.	parietal peritoneum    []   壁腹膜
+603.	visceral peritoneum    []    脏腹膜
+604.	#peritoneal cavity    []    腹膜腔
+605.	#omentum     []   网膜
+606.	#lesser omentum     []    小网膜
+607.	hepatogastic ligament   [  ]     肝胃韧带
+608.	#hepatoduodenal ligament   [  ]  肝十二指肠韧带
+609.	greater omentum    []   大网膜
+610.	gastrocolic ligament   [  ]   胃结肠韧带
+611.	#omental bursa   []   网膜囊
+612.	#omental foramen    []   网膜孔
+613.	#mesentery   []   肠系膜
+614.	radix of mesentery    [ ]    肠系膜根
+615.	#mesoappendix    []   阑尾系膜
+616.	#transverse  mesocolon   []    横结肠系膜
+617.	#sigmoid mesocolon   []，mesosigmoid   []    乙状结肠系膜
+618.	falciform ligament of liver   [  ]   镰状韧带
+619.	ligamentum teres hepatic   []   肝圆韧带
+620.	coronary ligament    [ ]    冠状韧带
+621.	bare area of liver   [  ]    肝裸区
+622.	gastrosplenic ligament   [ ]   胃脾韧带
+623.	splenorenal ligament   [ ]   脾肾韧带
+624.	gastrophrenic ligament    [ ]    胃膈韧带
+625.	#hepatorenal recess    []    肝肾隐窝
+626.	#rectovesical pouch     []   直肠膀胱陷凹
+627.	#vesicouterine pouch     []    膀胱子宫陷凹
+628.	#rectouterine pouch    []    直肠子宫陷凹
+内分泌系统
+629.	*endocrine system    []    内分泌系统
+630.	endocrine gland   []   内分泌腺
+631.	*hypophysis   []，pituitary gland   []   垂体
+632.	*thyroid gland   []   甲状腺
+633.	#parathyroid gland   []   甲状旁腺
+634.	*suprarenal gland   []   肾上腺
+635.	#pineal body    []   松果体
+636.	#pancreatic islet    []   胰岛
+637.	#thymus    []   胸腺
+脉管学
+638.	*circulatory system  [] 循环系统
+639.	*heart [] 心
+640.	*artery [] 动脉
+641.	#capillary  []  毛细血管
+642.	*vein  []  静脉
+643.	vascular anastomosis  []  血管吻合
+644.	collateral circulation  []  侧支循环
+645.	#cardiac apex []  心尖
+646.	#cardiac base []  心底
+647.	#coronary sulcus []  冠状沟
+648.	#anterior interventricular groove  []  前室间沟
+649.	#posterior interventricular groove  []  后室间沟
+650.	cardiac apical incisure  []  心尖切迹
+651.	#auricle of heart  []  心耳
+652.	*right atrium  []  右心房
+653.	pectinate muscles []  梳状肌
+654.	orifice of coronary sinus  [] 冠状窦口
+655.	#right atrioventricular orifice  []  右房室口
+656.	*fossa ovalis  []  卵圆窝
+657.	*right ventricle  []  右心室
+658.	papillary muscles []  乳头肌
+659.	chordae tendines  []  腱索
+660.	supraventricular crest  []  室上嵴
+661.	#septomarginal trabecula  []  隔缘肉柱
+662.	#moderator band  []  节制索
+663.	*tricuspid valve  []  三尖瓣
+664.	#tricuspid valve complex  []  三尖瓣复合体
+665.	conus arteriosus  []  动脉圆锥
+666.	#pulmonic valve  []  肺动脉瓣
+667.	*left atrium  []  左心房
+668.	#left atrioventricular  orifice  []  左房室口
+669.	*left ventricle  []  左心室
+670.	*bicuspid valve  []，mitral valve  []  二尖瓣
+671.	#mitral complex  []  二尖瓣复合体
+672.	#aortic vestibule  []  主动脉前庭
+673.	aortic orifice  []  主动脉口
+674.	endocardium  []  心内膜
+675.	myocardium  []  心肌层
+676.	epicardium  []  心外膜
+677.	#interatrial septum  []  房间隔
+678.	#interventricular septum  []  室间隔
+679.	right fibrous trigone  []  右纤维三角
+680.	left fibrous trigone  []  左纤维三角
+681.	*pericardium[]心包
+682.	fibrous pericardium  []纤维性心包
+683.	serous pericardium  []  浆膜性心包
+684.	#pericardial cavity []  心包腔
+685.	#transverse pericardial sinus  []  心包横窦
+686.	#oblique pericardial sinus  []  心包斜窦
+687.	#conduction system of heart  []  心传导系
+688.	*sinuatrial node  []  窦房结
+689.	atrioventricular node  []  房室结
+690.	atrioventricular bundle  []  房室束
+691.	#coronary artery  []  冠状动脉
+692.	anterior interventricular branch  []  前室间支
+693.	circumflex branch  []  旋支
+694.	right marginal branch  []  右缘支
+695.	posterior interventricular branch  []  后室间支
+696.	#coronary sinus  []  冠状窦
+697.	pulmonary trunk  []  肺动脉干
+698.	pulmonary artery  [] 肺动脉
+699.	#arterial ligament  []  动脉韧带
+700.	*aorta  [] 主动脉
+701.	#carotid sinus  []  颈动脉窦
+702.	#carotid glomus  [ ]  颈动脉小球
+703.	#aortic arch  []  主动脉弓
+704.	thoracic aorta  []  胸主动脉
+705.	abdominal aorta  []  腹主动脉
+706.	#iliac artery  []  髂动脉
+707.	testicular artery  []  睾丸动脉
+708.	ovarian artery  []  卵巢动脉
+709.	#coeliac trunk  []  腹腔干
+710.	left gastric artery  []胃左动脉
+711.	common hepatic artery  []  肝总动脉
+712.	splenic artery  []  脾动脉
+713.	proper hepatic artery  []  肝固有动脉
+714.	gastroduodenal artery  [] 胃十二指肠动脉
+715.	#superior mesenteric artery  []  肠系膜上动脉
+716.	jejunal artery  []  空肠动脉
+717.	ileal artery  []  回肠动脉
+718.	colic artery  []  结肠动脉
+719.	#inferior mesenteric artery  []  肠系膜下动脉
+720.	sigmoid artery  [] 乙状结肠动脉
+721.	superior rectal artery [] 直肠上动脉
+722.	obturator artery [] 闭孔动脉
+723.	superior gluteal artery [] 臀上动脉
+724.	inferior gluteal artery [] 臀下动脉
+725.	umbilical artery [] 脐动脉
+726.	uterine artery [] 子宫动脉
+727.	internal pudendal artery [] 阴部内动脉
+728.	#femoral artery [] 股动脉
+729.	#popliteal artery [] 腘动脉
+730.	posterior tibial artery [] 胫后动脉
+731.	peroneal artery []腓动脉
+732.	anterior tibial artery[]胫前动脉
+733.	dorsal artery of foot[] 足背动脉
+734.	venous valve [] 静脉瓣
+735.	#venous angle [] 静脉角
+736.	#superior vena cava  [] 上腔静脉
+737.	#internal jugular vein [] 颈内静脉
+738.	angular vein [] 内眦静脉
+739.	retromandibular vein [] 下颌后静脉
+740.	#pterygoid venous plexus [] 翼静脉丛
+741.	cavernous sinus  [] 海绵窦
+742.	#subclavian vein [] 锁骨下静脉
+743.	#external jugular vein [] 颈外静脉
+744.	#cephalic vein [] 头静脉
+745.	#basilic vein [] 贵要静脉
+746.	median cubital vein [] 肘正中静脉
+747.	median vein of forearm []前臂正中静脉
+748.	branchiocephalic vein [] 头臂静脉
+749.	#azygos vein [] 奇静脉
+750.	hemiazygos vein [] 半奇静脉
+751.	#inferior vena cava [] 下腔静脉
+752.	#small saphenous vein [] 小隐静脉
+753.	#great saphenous vein [] 大隐静脉
+754.	hepatic vein [] 肝静脉
+755.	*hepatic portal vein [] 肝门静脉
+756.	paraumbilical vein [] 附脐静脉
+757.	#lymphatic vessels [] 淋巴管
+758.	lymphatic trunk [] 淋巴干
+759.	#lymphatic duct [] 淋巴导管
+760.	*thoracic duct [] 胸导管
+761.	cisterna chili [] 乳糜池
+762.	#lymph node [] 淋巴结
+763.	retroauricular lymph node[] 耳后淋巴结
+764.	parotid lymph node [] 腮腺淋巴结
+765.	submandibular lymph node [] 下颌下淋巴结
+766.	supraclavicular lymph node [] 锁骨上淋巴结
+767.	pectoral lymph node [] 胸肌淋巴结
+768.	lateral lymph node [] 外侧淋巴结
+769.	subscapular lymph node [] 肩胛下淋巴结
+770.	central lymph node [] 中央淋巴结
+771.	bronchopulmonary lymph node [] 支气管肺淋巴结
+772.	superficial inguinal lymph node [] 腹股沟浅淋巴结
+773.	deep inguinal lymph node [] 腹股沟深淋巴结
+774.	lumbar lymph node [] 腰淋巴结
+775.	celiac lymph node [] 腹腔淋巴结
+776.	superior mesenteric lymph node [] 肠系膜上淋巴结
+777.	inferior mesenteric lymph node [] 肠系膜下淋巴结
+778.	*spleen [] 脾
+感觉器官
+779.	sensory organ [] 感觉器官
+780.	special sense  []  特殊感觉
+781.	olfactory organ []，organ of smell [] 嗅器
+782.	gustatory organ []， organ of taste [] 味器
+783.	#optic organ  [],#visual organ  [] 视器
+784.	*eyeball  [] 眼球
+785.	*cornea [] 角膜
+786.	*sclera [] 巩膜
+787.	*iris [] 虹膜
+788.	*pupil [l] 瞳孔
+789.	#ciliary body [] 睫状体
+790.	choroid [] 脉络膜
+791.	*retina [] 视网膜
+792.	#optic disc[] 视神经盘
+793.	#macula lutea[] 黄斑
+794.	anterior chamber [] 前房
+795.	aqueous humor [] 房水
+796.	*lens [] 晶状体
+797.	vitreous body [] 玻璃体
+798.	#eyelid [] 眼睑
+799.	conjunctiva [] 结膜
+800.	lacrimal apparatus [] 泪器
+801.	*vestibulocochlear organ [] 前庭窝器
+802.	external auditory meatus [] 外耳道
+803.	#tympanic membrane [] 鼓膜
+804.	#tympanic cavity [] 鼓室
+805.	mastoid antrum [] 乳突窦
+806.	labyrinth[] 迷路
+807.	vestibule [] 前庭
+808.	bony semicircular canals [] 骨半规管
+809.	cochlea [] 耳蜗
+810.	#spiral organ[] 螺旋器
+神经系统
+811.	*nervous system    []   神经系统
+812.	*neurology   []    神经学
+813.	*central nervous system   []   中枢神经系统
+814.	*peripheral nervous system   []   周围神经系统
+815.	#somatic nerve   []   躯体神经
+816.	#visceral nerve   []   内脏神经
+817.	visceral nervous system    []   内脏神经系统
+818.	#autonomic nervous system   []  自主神经系统
+819.	visceral motor nerve   []   内脏运动神经
+820.	visceral sensory nerve    []   内脏感觉神经
+821.	afferent nerve    []   传入神经
+822.	efferent nerve    []   传出神经
+823.	#sympathetic nerve    []    交感神经
+824.	#parasympathetic nerve    []    副交感神经
+825.	#gray matter    []    灰质
+826.	#cortex    []    皮质
+827.	*nucleus    []    神经核
+828.	#white matter    []   白质
+829.	#medulla    []    髓质
+830.	#fasciculus   []    纤维束
+831.	*ganglion    []    神经节
+832.	*nerve    []    神经
+833.	nerve plexus   []   神经丛
+周围神经系统
+834.	anterior root   []   前根
+835.	posterior root    []   后根
+836.	#spinal ganglion    []    脊神经节
+837.	cervical nerve    []   颈神经
+838.	thoracic nerve    []   胸神经
+839.	lumbar nerve    []   腰神经
+840.	sacral nerve    []    骶神经
+841.	coccygeal nerve     []   尾神经
+842.	greater occipital nerve     []    枕大神经
+843.	superior gluteal nerve     []    臀上皮神经
+844.	middle gluteal nerve    []    臀中皮神经
+845.	#cervical plexus    []    颈丛
+846.	lesser occipital nerve    []   枕小神经
+847.	great auricular nerve    []   耳大神经
+848.	transverse nerve of neck   []   颈横神经（颈皮神经）
+849.	supraclavicular nerve    []    锁骨上神经
+850.	#phrenic nerve    []    膈神经
+851.	#brachial plexus   []   臂丛
+852.	long thoracic nerve    []   胸长神经
+853.	dorsal scapular nerve    []   肩胛背神经
+854.	suprascapular nerve    []   肩胛上神经
+855.	subscapular nerve    []   肩胛下神经
+856.	medial pectoral nerve    []    胸内侧神经
+857.	lateral pectoral nerve   []    胸外侧神经
+858.	thoracodorsal nerve    []    胸背神经
+859.	#axillary nerve    []    腋神经
+860.	#musculocutaneous nerve   []   肌皮神经
+861.	#median nerve    []   正中神经
+862.	#ulnar nerve    []    尺神经
+863.	#radial nerve    []   桡神经
+864.	medial brachial cutaneous nerve    []臂内侧皮神经
+865.	medial antebrachial cutaneous nerve   []前臂内侧皮神经
+866.	#intercostal nerve    []   肋间神经
+867.	subcostal nerve    []   肋下神经
+868.	intercostobrachial nerve    []    肋间臂神经
+869.	#lumbar plexus    []   腰丛
+870.	iliohypogastric nerve    []    骼腹下神经
+871.	ilioinguinal nerve    []    骼腹股沟神经
+872.	lateral femoral cutaneous nerve    [] 股外侧皮神经
+873.	#femoral nerve    []   股神经
+874.	#obturator nerve    []    闭孔神经
+875.	genitofemoral nerve    []   生殖股神经
+876.	#sacral plexus    []   骶丛
+877.	#superior gluteal nerve   []   臀上神经
+878.	#inferior gluteal nerve    []   臀下神经
+879.	posterior femoral cutaneous nerve    []股后皮神经
+880.	pudendal nerve    []    阴部神经
+881.	#sciatic nerve    []   坐骨神经
+882.	#tibial nerve    []    胫神经
+883.	medial plantar nerve    []    足底内侧神经
+884.	lateral plantar nerve    []    足底外侧神经
+885.	#common peroneal nerve    []    腓总神经
+886.	superficial peroneal nerve   []   腓浅神经
+887.	deep peroneal nerve    []   腓深神经
+888.	*cranial nerve   []   脑神经
+889.	#optic nerve   []    视神经
+890.	#oculomotor nerve   []   动眼神经
+891.	#ciliary ganglion    []   睫状神经节
+892.	#trochlear nerve    []   滑车神经
+893.	#trigeminal nerve    []   三叉神经
+894.	#ophthalmic nerve    []   眼神经
+895.	frontal nerve    []   额神经
+896.	supraorbital nerve    []    眶上神经
+897.	supratrochlear nerve    []    滑车上神经
+898.	#maxillary nerve    []   上颌神经
+899.	#infraorbital nerve    []   眶下神经
+900.	superior alveolar nerves    []   上牙槽神经
+901.	#mandibular nerve    []   下颌神经
+902.	auriculotemporal nerve    []   耳颞神经
+903.	buccal nerve    []   颊神经
+904.	#lingual nerve   []   舌神经
+905.	inferior alveolar nerve    []    下牙槽神经
+906.	#abducent nerve    []   展神经
+907.	#facial nerve    []   面神经
+908.	#chorda tympani    []    鼓索
+909.	greater petrosal nerve    []   岩大神经（岩浅大神经）
+910.	#pterygopalatine ganglion [] 翼腭神经节（蝶腭神经节）
+911.	#submandibular ganglion   []   下颌下神经节
+912.	#vestibulocochlear nerve   []   前庭蜗神经
+913.	vestibular nerve    []   前庭神经
+914.	cochlear nerve    []   蜗神经
+915.	#glossopharyngeal nerve    []   舌咽神经
+916.	#otic ganglion    []    耳神经节
+917.	#vagus nerve    []    迷走神经
+918.	superior laryngeal nerve    []   喉上神经
+919.	#recurrent laryngeal nerve    []   喉返神经
+920.	#accessory nerve    []   副神经
+921.	#hypoglossal nerve    []   舌下神经
+922.	paravertebral ganglia   []   椎旁神经节
+923.	prevertebral ganglia   []   椎前神经节
+924.	#greater splanchnic nerve    []    内脏大神经
+925.	lesser splanchnic nerve    []    内脏小神经
+
+中枢神经系统
+926.	*spinal cord    []    脊髓
+927.	#cauda equina    []    马尾
+928.	central canal    []    中央管
+929.	#anterior horn    []     前角
+930.	#posterior horn    []    后角
+931.	#lateral horn    []   侧角
+932.	anterior funiculus    []    前索
+933.	 lateral funiculus    []    外侧索
+934.	posterior funiculus   []    后索
+935.	anterior white commissure   []   白质前连合
+936.	reticular formation    []   网状结构
+937.	#fasciculus gracilis    []   薄束
+938.	#fasciculus conatus    []    楔束
+939.	anterior spinocerebellar tract  [] 脊髓小脑前束
+940.	posterior spinocerebellar tract [] 脊髓小脑后束
+941.	#corticospinal tract    [ ]   皮质脊髓束
+942.	#spinothalamic tract    [ ]    脊髓丘脑束
+943.	*brain stem    []    脑干
+944.	*medulla oblongata    []   延髓
+945.	decussation of pyramid    []    锥体交叉
+946.	#gracile nucleus    []    薄束核
+947.	#cuneate nucleus   []   楔束核
+948.	nucleus of solitary tract    []    孤束核
+949.	dorsal nucleus of vagus nerve  [ ] 迷走神经背核
+950.	#nucleus ambiguous    []   疑核
+951.	#spinal nucleus of trigeminal nerve    [ ] 三叉神经脊束核
+952.	#inferior salivatory nucleus    []   下泌涎核
+953.	#medial lemniscus    []    内侧丘系
+954.	#lateral lemniscus     []    外侧丘系
+955.	#pyramidal tract    []    锥体束
+956.	#corticonuclear tract    [ ]    皮质核束
+957.	medial longitudinal fasciculus   []   内侧纵束
+958.	#trigeminal lemmniscus    []   三叉丘系
+959.	*pons   []    脑桥
+960.	#superior salivatory nucleus   []   上泌涎核
+961.	#fourth ventricle   []    第四脑室
+962.	hypoglossal triangle    []    舌下神经三角
+963.	vagal triangle    []    迷走神经三角
+964.	locus ceruleus    []    蓝斑
+965.	*mesencephalon   []，midbrain   []   中脑
+966.	pretectal area   []    顶盖前区
+967.	superior colliculs   []   上丘
+968.	inferior colliculs    []   下丘
+969.	cerebral peduncle     []    大脑脚
+970.	#nucleus of  trochlear nerve    []   滑车神经核
+971.	#nucleus of  oculomotor nerve  [] 动眼神经核
+972.	#accessory nucleus of  oculomotor  nerve[]   动眼神经副核
+973.	#red nucleus   []    红核
+974.	#substantia nigra    []    黑质
+975.	rapheal nuclei    []   中缝核
+976.	*cerebellum    []   小脑
+977.	#vermis    []   小脑蚓
+978.	#cerebellar hemisphere    []   小脑半球
+979.	#tonsil of cerebellum   []   小脑扁桃体
+980.	spinocerebellum    []    脊髓小脑
+981.	cerebrocerebellum    []   大脑小脑
+982.	vestibule cerebellum    [  ]    前庭小脑
+983.	*diencephalons   []    间脑
+984.	epithalamus    []    上丘脑
+985.	dorsal thalamus    [  ], thalamus   []  背侧丘脑
+986.	metathalamus    []    后丘脑
+987.	#medial geniculate body    []   内侧膝状体
+988.	#lateral geniculate body    []    外侧膝状体
+989.	#hypothalamus    []   下丘脑
+990.	optic chiasma   []    视交叉
+991.	#supraoptic nucleus   []   视上核
+992.	#paraventricular nucleus   [  ]   室旁核
+993.	infundibular nucleus    []   漏斗核
+994.	hypophysial portal    []   垂体门脉
+995.	subthalamus    []    底丘脑
+996.	supraopticohypophyseal tract  [  ]  视上垂体束
+997.	optic radiation   []   视辐射
+998.	acoustic radiation   []   听辐射
+999.	#third ventricle   []   第三脑室
+1000.	*telencephalon   []   端脑
+1001.	*brain   []，encephalon   []   脑
+1002.	*cerebrum   []   大脑
+1003.	cerebral hemisphere [] 大脑半球
+1004.	#gyrus [] 脑回
+1005.	#cerebral cortex    []   大脑皮质
+1006.	crus cerebri    []   大脑脚底
+1007.	interpeduncular fossa   []   脚间窝
+1008.	#precentral gyrus    [ ]   中央前回
+1009.	superior frontal gyrus     [  ]   额上回
+1010.	middle frontal gyrus    [  ]    额中回
+1011.	inferior frontal gyrus    [   ]    额下回
+1012.	postcenral gyrus    [ ]    中央后回
+1013.	#angular gyrus    []    角回
+1014.	#transverse temporal gyrus    [ ]    颞横回
+1015.	#calcaine sulcus    []    距状沟
+1016.	projection fibers    []    投射纤维
+1017.	#limbic system    []    边缘系统
+1018.	#hippocampus    []    海马
+1019.	#lateral ventricle    []    侧脑室
+1020.	#basal nuclei    []    基底核
+1021.	#corpus striatum    []    纹状体
+1022.	#caudate nucleus    []    尾状核
+1023.	#lentiform nucleus    []    豆状核
+1024.	#globus pallidus    []    苍白球
+1025.	claustrum    []    屏状核
+1026.	#amygdaloid body    []    杏仁体
+1027.	#corpus callosum    [  ]    胼胝体
+1028.	#fornix   []    穹隆
+1029.	#internal capsule    []    内囊
+1030.	#anterior commissure   []    前连合
+1031.	#pyramidal system    []    椎体系
+1032.	#extrapyramidal system   []    椎体外系
+脑和脊膜的被膜、血管及脑脊液循环
+1033.	#cerebrospinal fluid   []   脑脊液
+1034.	#meninges  []    脑脊膜
+1035.	#spinal dura mater   []   硬脊膜
+1036.	#epidural space   []   硬膜外隙
+1037.	#spinal arachnoid   []   脊髓蛛网膜
+1038.	#subarachnoid space   []   蛛网膜下隙
+1039.	#spinal pia mater   []   软脊膜
+1040.	#cerebral dura mater   []   硬脑膜
+1041.	#cerebral falx   []   大脑镰
+1042.	tentorium of cerebellum   []   小脑幕
+1043.	cerebral arachnoid mater   []   脑蛛网膜
+1044.	#arachnoid granulations   []   蛛网膜粒
+1045.	#cerebral pia mater   []   软脑膜
+1046.	#cerebral arterial circle   []   大脑动脉环（Willis环）
+1047.	cerebrospinal  fluid-contacting  neurons  (CSFCN)[]   触液神经元
+1048.	blood-brain barrier   []   血－脑屏障
+
+局部解剖学
+1049.	 *triangle of auscultation   []   听诊三角
+1050.	*superior lumbar triangle   []   腰上三角
+1051.	*inferior lumber triangle   []    腰下三角
+1052.	#axillary sheath   []   腋鞘
+1053.	intercostals space   []   肋间隙
+1054.	thoracolumbar fascia   [ ]    胸腰筋膜
+1055.	*renal region   []    肾区
+1056.	*sheath of rectus abdominis   []   腹直肌鞘
+1057.	*inguinal canal   []    腹股沟管
+1058.	#conjoined tendon    []    联合腱
+1059.	#inguinal triangle   []    腹股沟三角
+1060.	#urogenital diaphragm    []   尿生殖膈
+1061.	*pelvic diaphragm   []   盆膈
+1062.	#spermatic cord    [ ]   精索
+1063.	*scalp   []    头皮
+1064.	temporal space   [  ]   颞间隙
+1065.	*carotid sheath    [  ]   颈动脉鞘
+1066.	#suprasternal space   [  ]   胸骨上间隙
+1067.	*pretracheal space   [  ]   气管前间隙
+1068.	#submandibular triangle   []   肌三角
+1069.	#occipital triangle    []   枕三角
+1070.	*scalene space    []   斜角肌间隙
+1071.	#ansa cervicalis   []   颈袢
+1072.	*carpal canal   []   腕管
+1073.	*cubital fossa   []   肘窝
+1074.	midpalmar spae   []    掌中间隙
+1075.	*superficial palmar arch   []   掌浅弓
+1076.	#saphenous hiatus   []    隐经脉裂孔
+1077.	*lacuna vasorum   []   血管腔隙
+1078.	*lacuna musculorum    []    肌腔隙
+1079.	femoral canal [] 股管
+1080.	femoral ring [] 股环
+1081.	*femoral triangle   []    股三角
+1082.	#adductor canal    []    收肌管
+1083.	*popliteal fossa    []   腘窝
+1084.	#malleolar canal    []    踝管
+1085.	#pulmonary ligament    []    肺韧带
+1086.	*costodiaphragmatic recess    []   肋膈隐窝
+1087.	*transverse sinus of pericardium [] 心包横窦
+1088.	#oblique sinus of pericardium   []   心包斜窦
+1089.	*hepatorenal recess   []   肝肾隐窝
+1090.	*cystohepatic triangle   []   胆囊三角 (Calot's triangle)
+1091.	#hepatopancreatic ampulla   []    肝胰壶腹
+1092.	#omental bursa   []    网膜囊
+1093.	*omental foramen   []   网膜孔
+1094.	*rectouterine pouch   []  直肠子宫陷凹 (Douglas's cavity)
+1095.	*rectovesical pouch   []  直肠膀胱陷凹
+1096.	*retropublic space   [  ]   耻骨后隙
+1097.	*retrorectal space   [  ]   直肠后隙
