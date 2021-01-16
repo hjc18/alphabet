@@ -23,6 +23,7 @@ def pre_process():
     f.writelines(new_lines)
     f.close()
 
+
 def process():
     f = open("../static/words_pro.txt", "r")
     new_line = []
@@ -40,5 +41,6 @@ def process():
     f = open("../static/words_final.txt", "w")
     f.writelines(new_line)
     f.close()
+
 
 process()
