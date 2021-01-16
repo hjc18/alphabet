@@ -2,7 +2,7 @@ from django.db import models
 
 
 class Dictionary(models.Model):
-    name = models.CharField(max_length=100)
+    name = models.CharField(primary_key=True, max_length=100)
     create_time = models.DateTimeField(auto_now_add=True)
 
 

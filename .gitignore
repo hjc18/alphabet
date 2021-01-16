@@ -130,3 +130,5 @@ dmypy.json
 
 .idea/
 alphabet/__pycache__/
+reciting/__pycache__/
+reciting/migrations/
