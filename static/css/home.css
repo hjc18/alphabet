@@ -1,0 +1,42 @@
+.marketing {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+}
+.jumbotron .btn {
+  padding: 14px 24px;
+  font-size: 21px;
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 40px 0 10px;
+}
+/*.marketing p + h4 {*/
+/*  margin-top: 28px;*/
+/*}*/
+.col-lg-6 {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.panel {
+    margin-bottom: 10px;
+}
+
+.col-lg-4 .btn {
+    color: #777;
+    margin-bottom: 10px;
+}
+
+@media screen and (min-width: 768px) {
+    .marketing {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}

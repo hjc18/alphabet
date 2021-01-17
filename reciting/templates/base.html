@@ -6,8 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title>{% block title %}{% endblock %}</title>
 
-    <link href="{% static 'bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
-    <link href="{% static 'css/base.css' %}" rel="stylesheet">
+    <!-- bootstrap v3 -->
+    <link href="{% static 'bootstrap/css/bootstrap.min.css' %}" rel="stylesheet" type="text/css">
+    <link href="{% static 'css/base.css' %}" rel="stylesheet" type="text/css">
     {% block css %}{% endblock %}
 </head>
 
@@ -15,7 +16,7 @@
 <script src="{% static 'js/jquery.min.js' %}"></script>
 <script src="{% static 'bootstrap/js/bootstrap.min.js' %}"></script>
 
-<div class="container">
+<div class="container" id="main-container">
     <div class="header clearfix">
         <nav class="navbar navbar-default">
             <div class="container-fluid">
@@ -86,11 +87,6 @@
     </div>
 
     {% block content %}{% endblock %}
-
-
-
-    <div class="row marketing">
-    </div>
 
     <footer class="footer text-center">
         <p>&copy for YZH, by HJC</p>
